@@ -1,0 +1,3901 @@
+{
+  "Afghanistan": {
+    "All": {
+      "administered": 641295,
+      "people_vaccinated": 158343,
+      "people_partially_vaccinated": 482952,
+      "country": "Afghanistan",
+      "population": 35530081,
+      "sq_km_area": 652090,
+      "life_expectancy": "45.9",
+      "elevation_in_meters": null,
+      "continent": "Asia",
+      "abbreviation": "AF",
+      "location": "Southern and Central Asia",
+      "iso": 4,
+      "capital_city": "Kabul",
+      "updated": "2021/06/10 00:00:00+00"
+    }
+  },
+  "Albania": {
+    "All": {
+      "administered": 803682,
+      "people_vaccinated": 310336,
+      "people_partially_vaccinated": 493346,
+      "country": "Albania",
+      "population": 2930187,
+      "sq_km_area": 28748,
+      "life_expectancy": "71.6",
+      "elevation_in_meters": null,
+      "continent": "Europe",
+      "abbreviation": "AL",
+      "location": "Southern Europe",
+      "iso": 8,
+      "capital_city": "Tirana",
+      "updated": "2021/06/10 00:00:00+00"
+    }
+  },
+  "Algeria": {
+    "All": {
+      "administered": 2500000,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 2500000,
+      "country": "Algeria",
+      "population": 41318142,
+      "sq_km_area": 2381741,
+      "life_expectancy": "69.7",
+      "elevation_in_meters": 800,
+      "continent": "Africa",
+      "abbreviation": "DZ",
+      "location": "Northern Africa",
+      "iso": 12,
+      "capital_city": "Alger",
+      "updated": "2021/06/10 00:00:00+00"
+    }
+  },
+  "Andorra": {
+    "All": {
+      "administered": 35926,
+      "people_vaccinated": 8303,
+      "people_partially_vaccinated": 27613,
+      "country": "Andorra",
+      "population": 76965,
+      "sq_km_area": 468,
+      "life_expectancy": "83.5",
+      "elevation_in_meters": "1,996",
+      "continent": "Europe",
+      "abbreviation": "AD",
+      "location": "Southern Europe",
+      "iso": 20,
+      "capital_city": "Andorra la Vella",
+      "updated": "2021/06/10 00:00:00+00"
+    }
+  },
+  "Angola": {
+    "All": {
+      "administered": 1115919,
+      "people_vaccinated": 375630,
+      "people_partially_vaccinated": 740289,
+      "country": "Angola",
+      "population": 29784193,
+      "sq_km_area": 1246700,
+      "life_expectancy": "38.3",
+      "elevation_in_meters": "1,112",
+      "continent": "Africa",
+      "abbreviation": "AO",
+      "location": "Central Africa",
+      "iso": 24,
+      "capital_city": "Luanda",
+      "updated": "2021/06/10 00:00:00+00"
+    }
+  },
+  "Antigua and Barbuda": {
+    "All": {
+      "administered": 55578,
+      "people_vaccinated": 21494,
+      "people_partially_vaccinated": 34084,
+      "country": "Antigua and Barbuda",
+      "population": 102012,
+      "sq_km_area": 442,
+      "life_expectancy": "70.5",
+      "elevation_in_meters": null,
+      "continent": "North America",
+      "abbreviation": "AG",
+      "location": "Caribbean",
+      "iso": 28,
+      "capital_city": "Saint John's",
+      "updated": "2021/06/10 00:00:00+00"
+    }
+  },
+  "Argentina": {
+    "All": {
+      "administered": 14663805,
+      "people_vaccinated": 3085996,
+      "people_partially_vaccinated": 11577809,
+      "country": "Argentina",
+      "population": 44271041,
+      "sq_km_area": 2780400,
+      "life_expectancy": "75.1",
+      "elevation_in_meters": 595,
+      "continent": "South America",
+      "abbreviation": "AR",
+      "location": "South America",
+      "iso": 32,
+      "capital_city": "Buenos Aires",
+      "updated": "2021/06/10 00:00:00+00"
+    }
+  },
+  "Armenia": {
+    "All": {
+      "administered": 33529,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 33529,
+      "country": "Armenia",
+      "population": 2930450,
+      "sq_km_area": 29800,
+      "life_expectancy": "66.4",
+      "elevation_in_meters": "1,792",
+      "continent": "Asia",
+      "abbreviation": "AM",
+      "location": "Middle East",
+      "iso": 51,
+      "capital_city": "Yerevan",
+      "updated": "2021/06/10 00:00:00+00"
+    }
+  },
+  "Australia": {
+    "All": {
+      "administered": 5203977,
+      "people_vaccinated": 635116,
+      "people_partially_vaccinated": 4568861,
+      "country": "Australia",
+      "population": 24450561,
+      "sq_km_area": 7741220,
+      "life_expectancy": "79.8",
+      "elevation_in_meters": 330,
+      "continent": "Oceania",
+      "abbreviation": "AU",
+      "location": "Australia and New Zealand",
+      "iso": 36,
+      "capital_city": "Canberra",
+      "updated": "2021/06/10 00:00:00+00"
+    }
+  },
+  "Austria": {
+    "All": {
+      "administered": 5807966,
+      "people_vaccinated": 1881021,
+      "people_partially_vaccinated": 3990367,
+      "country": "Austria",
+      "population": 8735453,
+      "sq_km_area": 83859,
+      "life_expectancy": "77.7",
+      "elevation_in_meters": 910,
+      "continent": "Europe",
+      "abbreviation": "AT",
+      "location": "Western Europe",
+      "iso": 40,
+      "capital_city": "Wien",
+      "updated": "2021/06/10 00:00:00+00"
+    }
+  },
+  "Azerbaijan": {
+    "All": {
+      "administered": 2586410,
+      "people_vaccinated": 940356,
+      "people_partially_vaccinated": 1646054,
+      "country": "Azerbaijan",
+      "population": 9827589,
+      "sq_km_area": 86600,
+      "life_expectancy": "62.9",
+      "elevation_in_meters": 384,
+      "continent": "Asia",
+      "abbreviation": "AZ",
+      "location": "Middle East",
+      "iso": 31,
+      "capital_city": "Baku",
+      "updated": "2021/06/10 00:00:00+00"
+    }
+  },
+  "Bahamas": {
+    "All": {
+      "administered": 55037,
+      "people_vaccinated": 8659,
+      "people_partially_vaccinated": 46378,
+      "country": "Bahamas",
+      "population": 395361,
+      "sq_km_area": 13878,
+      "life_expectancy": "71.1",
+      "elevation_in_meters": null,
+      "continent": "North America",
+      "abbreviation": "BS",
+      "location": "Caribbean",
+      "iso": 44,
+      "capital_city": "Nassau",
+      "updated": "2021/06/10 00:00:00+00"
+    }
+  },
+  "Bahrain": {
+    "All": {
+      "administered": 1849847,
+      "people_vaccinated": 839685,
+      "people_partially_vaccinated": 1010162,
+      "country": "Bahrain",
+      "population": 1492584,
+      "sq_km_area": 694,
+      "life_expectancy": 73,
+      "elevation_in_meters": null,
+      "continent": "Asia",
+      "abbreviation": "BH",
+      "location": "Middle East",
+      "iso": 48,
+      "capital_city": "al-Manama",
+      "updated": "2021/06/10 00:00:00+00"
+    }
+  },
+  "Bangladesh": {
+    "All": {
+      "administered": 10046528,
+      "people_vaccinated": 4217719,
+      "people_partially_vaccinated": 5823245,
+      "country": "Bangladesh",
+      "population": 164669751,
+      "sq_km_area": 143998,
+      "life_expectancy": "60.2",
+      "elevation_in_meters": 85,
+      "continent": "Asia",
+      "abbreviation": "BD",
+      "location": "Southern and Central Asia",
+      "iso": 50,
+      "capital_city": "Dhaka",
+      "updated": "2021/06/10 00:00:00+00"
+    },
+    "Barisal": {
+      "administered": 429802,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 0,
+      "updated": "2021/06/10 00:00:00+00"
+    },
+    "Chittagong": {
+      "administered": 2044765,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 0,
+      "updated": "2021/06/10 00:00:00+00"
+    },
+    "Dhaka": {
+      "administered": 3290556,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 0,
+      "updated": "2021/06/10 00:00:00+00"
+    },
+    "Khulna": {
+      "administered": 1219428,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 0,
+      "updated": "2021/06/10 00:00:00+00"
+    },
+    "Mymensingh": {
+      "administered": 478712,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 0,
+      "updated": "2021/06/10 00:00:00+00"
+    },
+    "Rajshahi": {
+      "administered": 1077128,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 0,
+      "updated": "2021/06/10 00:00:00+00"
+    },
+    "Rangpur": {
+      "administered": 984363,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 0,
+      "updated": "2021/06/10 00:00:00+00"
+    },
+    "Sylhet": {
+      "administered": 521774,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 0,
+      "updated": "2021/06/10 00:00:00+00"
+    },
+    "Unassigned": {
+      "administered": 0,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 0,
+      "updated": "2021/06/10 00:00:00+00"
+    }
+  },
+  "Barbados": {
+    "All": {
+      "administered": 144312,
+      "people_vaccinated": 61427,
+      "people_partially_vaccinated": 82885,
+      "country": "Barbados",
+      "population": 285719,
+      "sq_km_area": 430,
+      "life_expectancy": 73,
+      "elevation_in_meters": null,
+      "continent": "North America",
+      "abbreviation": "BB",
+      "location": "Caribbean",
+      "iso": 52,
+      "capital_city": "Bridgetown",
+      "updated": "2021/06/10 00:00:00+00"
+    }
+  },
+  "Belarus": {
+    "All": {
+      "administered": 796834,
+      "people_vaccinated": 279683,
+      "people_partially_vaccinated": 517151,
+      "country": "Belarus",
+      "population": 9468338,
+      "sq_km_area": 207600,
+      "life_expectancy": 68,
+      "elevation_in_meters": 160,
+      "continent": "Europe",
+      "abbreviation": "BY",
+      "location": "Eastern Europe",
+      "iso": 112,
+      "capital_city": "Minsk",
+      "updated": "2021/06/10 00:00:00+00"
+    }
+  },
+  "Belgium": {
+    "All": {
+      "administered": 7830216,
+      "people_vaccinated": 2587467,
+      "people_partially_vaccinated": 5189472,
+      "country": "Belgium",
+      "population": 11429336,
+      "sq_km_area": 30518,
+      "life_expectancy": "77.8",
+      "elevation_in_meters": 181,
+      "continent": "Europe",
+      "abbreviation": "BE",
+      "location": "Western Europe",
+      "iso": 56,
+      "capital_city": "Bruxelles [Brussel]",
+      "updated": "2021/06/10 00:00:00+00"
+    }
+  },
+  "Belize": {
+    "All": {
+      "administered": 80121,
+      "people_vaccinated": 12270,
+      "people_partially_vaccinated": 67851,
+      "country": "Belize",
+      "population": 374681,
+      "sq_km_area": 22696,
+      "life_expectancy": "70.9",
+      "elevation_in_meters": 173,
+      "continent": "North America",
+      "abbreviation": "BZ",
+      "location": "Central America",
+      "iso": 84,
+      "capital_city": "Belmopan",
+      "updated": "2021/06/10 00:00:00+00"
+    }
+  },
+  "Bhutan": {
+    "All": {
+      "administered": 483092,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 482716,
+      "country": "Bhutan",
+      "population": 807610,
+      "sq_km_area": 47000,
+      "life_expectancy": "52.4",
+      "elevation_in_meters": "3,280",
+      "continent": "Asia",
+      "abbreviation": "BT",
+      "location": "Southern and Central Asia",
+      "iso": 64,
+      "capital_city": "Thimphu",
+      "updated": "2021/06/10 00:00:00+00"
+    }
+  },
+  "Bolivia": {
+    "All": {
+      "administered": 1878702,
+      "people_vaccinated": 407869,
+      "people_partially_vaccinated": 1470833,
+      "country": "Bolivia",
+      "population": 11051600,
+      "sq_km_area": 1098581,
+      "life_expectancy": "63.7",
+      "elevation_in_meters": "1,192",
+      "continent": "South America",
+      "abbreviation": "BO",
+      "location": "South America",
+      "iso": 68,
+      "capital_city": "La Paz",
+      "updated": "2021/06/10 00:00:00+00"
+    }
+  },
+  "Bosnia and Herzegovina": {
+    "All": {
+      "administered": 232706,
+      "people_vaccinated": 43858,
+      "people_partially_vaccinated": 188848,
+      "country": "Bosnia and Herzegovina",
+      "population": 3507017,
+      "sq_km_area": 51197,
+      "life_expectancy": "71.5",
+      "elevation_in_meters": 500,
+      "continent": "Europe",
+      "abbreviation": "BA",
+      "location": "Southern Europe",
+      "iso": 70,
+      "capital_city": "Sarajevo",
+      "updated": "2021/06/10 00:00:00+00"
+    }
+  },
+  "Botswana": {
+    "All": {
+      "administered": 146725,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 71500,
+      "country": "Botswana",
+      "population": 2291661,
+      "sq_km_area": 581730,
+      "life_expectancy": "39.3",
+      "elevation_in_meters": "1,013",
+      "continent": "Africa",
+      "abbreviation": "BW",
+      "location": "Southern Africa",
+      "iso": 72,
+      "capital_city": "Gaborone",
+      "updated": "2021/06/10 00:00:00+00"
+    }
+  },
+  "Brazil": {
+    "All": {
+      "administered": 70208178,
+      "people_vaccinated": 23485276,
+      "people_partially_vaccinated": 51055813,
+      "country": "Brazil",
+      "population": 209288278,
+      "sq_km_area": 8547403,
+      "life_expectancy": "62.9",
+      "elevation_in_meters": 320,
+      "continent": "South America",
+      "abbreviation": "BR",
+      "location": "South America",
+      "iso": 76,
+      "capital_city": "Brasília",
+      "updated": "2021/06/10 00:00:00+00"
+    },
+    "Acre": {
+      "administered": 212357,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 0,
+      "updated": "2021/06/10 00:00:00+00"
+    },
+    "Alagoas": {
+      "administered": 1080906,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 0,
+      "updated": "2021/06/10 00:00:00+00"
+    },
+    "Amapa": {
+      "administered": 201146,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 0,
+      "updated": "2021/06/10 00:00:00+00"
+    },
+    "Amazonas": {
+      "administered": 1168590,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 0,
+      "updated": "2021/06/10 00:00:00+00"
+    },
+    "Bahia": {
+      "administered": 4750716,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 0,
+      "updated": "2021/06/10 00:00:00+00"
+    },
+    "Ceara": {
+      "administered": 2363864,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 0,
+      "updated": "2021/06/10 00:00:00+00"
+    },
+    "Distrito Federal": {
+      "administered": 955131,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 0,
+      "updated": "2021/06/10 00:00:00+00"
+    },
+    "Espirito Santo": {
+      "administered": 1602605,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 0,
+      "updated": "2021/06/10 00:00:00+00"
+    },
+    "Goias": {
+      "administered": 2277606,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 0,
+      "updated": "2021/06/10 00:00:00+00"
+    },
+    "Maranhao": {
+      "administered": 2052468,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 0,
+      "updated": "2021/06/10 00:00:00+00"
+    },
+    "Mato Grosso": {
+      "administered": 981470,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 0,
+      "updated": "2021/06/10 00:00:00+00"
+    },
+    "Mato Grosso do Sul": {
+      "administered": 1211022,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 0,
+      "updated": "2021/06/10 00:00:00+00"
+    },
+    "Minas Gerais": {
+      "administered": 7039605,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 0,
+      "updated": "2021/06/10 00:00:00+00"
+    },
+    "Para": {
+      "administered": 1965695,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 0,
+      "updated": "2021/06/10 00:00:00+00"
+    },
+    "Paraiba": {
+      "administered": 1398154,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 0,
+      "updated": "2021/06/10 00:00:00+00"
+    },
+    "Parana": {
+      "administered": 4205940,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 0,
+      "updated": "2021/06/10 00:00:00+00"
+    },
+    "Pernambuco": {
+      "administered": 2797038,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 0,
+      "updated": "2021/06/10 00:00:00+00"
+    },
+    "Piaui": {
+      "administered": 993822,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 0,
+      "updated": "2021/06/10 00:00:00+00"
+    },
+    "Rio Grande do Norte": {
+      "administered": 1175755,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 0,
+      "updated": "2021/06/10 00:00:00+00"
+    },
+    "Rio Grande do Sul": {
+      "administered": 5127068,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 0,
+      "updated": "2021/06/10 00:00:00+00"
+    },
+    "Rio de Janeiro": {
+      "administered": 6175956,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 0,
+      "updated": "2021/06/10 00:00:00+00"
+    },
+    "Rondonia": {
+      "administered": 457121,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 0,
+      "updated": "2021/06/10 00:00:00+00"
+    },
+    "Roraima": {
+      "administered": 155663,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 0,
+      "updated": "2021/06/10 00:00:00+00"
+    },
+    "Santa Catarina": {
+      "administered": 2365085,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 0,
+      "updated": "2021/06/10 00:00:00+00"
+    },
+    "Sao Paulo": {
+      "administered": 16452724,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 0,
+      "updated": "2021/06/10 00:00:00+00"
+    },
+    "Sergipe": {
+      "administered": 613421,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 0,
+      "updated": "2021/06/10 00:00:00+00"
+    },
+    "Tocantins": {
+      "administered": 427250,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 0,
+      "updated": "2021/06/10 00:00:00+00"
+    }
+  },
+  "Brunei": {
+    "All": {
+      "administered": 56135,
+      "people_vaccinated": 11306,
+      "people_partially_vaccinated": 43779,
+      "country": "Brunei",
+      "population": 428697,
+      "sq_km_area": 5765,
+      "life_expectancy": "73.6",
+      "elevation_in_meters": 478,
+      "continent": "Asia",
+      "abbreviation": "BN",
+      "location": "Southeast Asia",
+      "iso": 96,
+      "capital_city": "Bandar Seri Begawan",
+      "updated": "2021/06/10 00:00:00+00"
+    }
+  },
+  "Bulgaria": {
+    "All": {
+      "administered": 1524541,
+      "people_vaccinated": 648541,
+      "people_partially_vaccinated": 851993,
+      "country": "Bulgaria",
+      "population": 7084571,
+      "sq_km_area": 110994,
+      "life_expectancy": "70.9",
+      "elevation_in_meters": 472,
+      "continent": "Europe",
+      "abbreviation": "BG",
+      "location": "Eastern Europe",
+      "iso": 100,
+      "capital_city": "Sofia",
+      "updated": "2021/06/10 00:00:00+00"
+    }
+  },
+  "Burma": {
+    "All": {
+      "administered": 2994900,
+      "people_vaccinated": 1222723,
+      "people_partially_vaccinated": 1772177,
+      "updated": "2021/06/10 00:00:00+00"
+    }
+  },
+  "Cambodia": {
+    "All": {
+      "administered": 5005581,
+      "people_vaccinated": 2235148,
+      "people_partially_vaccinated": 2770433,
+      "country": "Cambodia",
+      "population": 16005373,
+      "sq_km_area": 181035,
+      "life_expectancy": "56.5",
+      "elevation_in_meters": 126,
+      "continent": "Asia",
+      "abbreviation": "KH",
+      "location": "Southeast Asia",
+      "iso": 116,
+      "capital_city": "Phnom Penh",
+      "updated": "2021/06/10 00:00:00+00"
+    }
+  },
+  "Cameroon": {
+    "All": {
+      "administered": 80445,
+      "people_vaccinated": 14229,
+      "people_partially_vaccinated": 66216,
+      "country": "Cameroon",
+      "population": 24053727,
+      "sq_km_area": 475442,
+      "life_expectancy": "54.8",
+      "elevation_in_meters": 667,
+      "continent": "Africa",
+      "abbreviation": "CM",
+      "location": "Central Africa",
+      "iso": 120,
+      "capital_city": "Yaound",
+      "updated": "2021/06/10 00:00:00+00"
+    }
+  },
+  "Canada": {
+    "All": {
+      "administered": 27257774,
+      "people_vaccinated": 3184937,
+      "people_partially_vaccinated": 23670710,
+      "country": "Canada",
+      "population": 36624199,
+      "sq_km_area": 9970610,
+      "life_expectancy": "79.4",
+      "elevation_in_meters": 487,
+      "continent": "North America",
+      "abbreviation": "CA",
+      "location": "North America",
+      "iso": 124,
+      "capital_city": "Ottawa",
+      "updated": "2021/06/10 00:00:00+00"
+    },
+    "Alberta": {
+      "administered": 3157862,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 0,
+      "updated": "2021/06/10 00:00:00+00"
+    },
+    "British Columbia": {
+      "administered": 3749758,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 0,
+      "updated": "2021/06/10 00:00:00+00"
+    },
+    "Manitoba": {
+      "administered": 974549,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 0,
+      "updated": "2021/06/10 00:00:00+00"
+    },
+    "New Brunswick": {
+      "administered": 551125,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 0,
+      "updated": "2021/06/10 00:00:00+00"
+    },
+    "Newfoundland and Labrador": {
+      "administered": 345743,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 0,
+      "updated": "2021/06/10 00:00:00+00"
+    },
+    "Northwest Territories": {
+      "administered": 55078,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 0,
+      "updated": "2021/06/10 00:00:00+00"
+    },
+    "Nova Scotia": {
+      "administered": 647604,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 0,
+      "updated": "2021/06/10 00:00:00+00"
+    },
+    "Nunavut": {
+      "administered": 33311,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 0,
+      "updated": "2021/06/10 00:00:00+00"
+    },
+    "Ontario": {
+      "administered": 10445119,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 0,
+      "updated": "2021/06/10 00:00:00+00"
+    },
+    "Prince Edward Island": {
+      "administered": 104281,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 0,
+      "updated": "2021/06/10 00:00:00+00"
+    },
+    "Quebec": {
+      "administered": 6309860,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 0,
+      "updated": "2021/06/10 00:00:00+00"
+    },
+    "Saskatchewan": {
+      "administered": 828652,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 0,
+      "updated": "2021/06/10 00:00:00+00"
+    },
+    "Yukon": {
+      "administered": 54832,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 0,
+      "updated": "2021/06/10 00:00:00+00"
+    }
+  },
+  "Chile": {
+    "All": {
+      "administered": 19829017,
+      "people_vaccinated": 8544845,
+      "people_partially_vaccinated": 11244773,
+      "country": "Chile",
+      "population": 18054726,
+      "sq_km_area": 756626,
+      "life_expectancy": "75.7",
+      "elevation_in_meters": "1,871",
+      "continent": "South America",
+      "abbreviation": "CL",
+      "location": "South America",
+      "iso": 152,
+      "capital_city": "Santiago de Chile",
+      "updated": "2021/06/10 00:00:00+00"
+    }
+  },
+  "China": {
+    "All": {
+      "administered": 808962000,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 0,
+      "country": "China",
+      "population": 1409517397,
+      "sq_km_area": 9572900,
+      "life_expectancy": "71.4",
+      "elevation_in_meters": "1,840",
+      "continent": "Asia",
+      "abbreviation": "CN",
+      "location": "Eastern Asia",
+      "iso": 156,
+      "capital_city": "Peking",
+      "updated": "2021/06/10 00:00:00+00"
+    },
+    "Hong Kong": {
+      "administered": 2748930,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 0,
+      "updated": "2021/06/10 00:00:00+00"
+    },
+    "Macau": {
+      "administered": 215775,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 0,
+      "updated": "2021/06/10 00:00:00+00"
+    }
+  },
+  "Colombia": {
+    "All": {
+      "administered": 11977805,
+      "people_vaccinated": 3471207,
+      "people_partially_vaccinated": 8262316,
+      "country": "Colombia",
+      "population": 49065615,
+      "sq_km_area": 1138914,
+      "life_expectancy": "70.3",
+      "elevation_in_meters": 593,
+      "continent": "South America",
+      "abbreviation": "CO",
+      "location": "South America",
+      "iso": 170,
+      "capital_city": "Santaf",
+      "updated": "2021/06/10 00:00:00+00"
+    },
+    "Amazonas": {
+      "administered": 60845,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 0,
+      "updated": "2021/06/10 00:00:00+00"
+    },
+    "Antioquia": {
+      "administered": 1807472,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 0,
+      "updated": "2021/06/10 00:00:00+00"
+    },
+    "Arauca": {
+      "administered": 45562,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 0,
+      "updated": "2021/06/10 00:00:00+00"
+    },
+    "Atlantico": {
+      "administered": 652882,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 0,
+      "updated": "2021/06/10 00:00:00+00"
+    },
+    "Bolivar": {
+      "administered": 488688,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 0,
+      "updated": "2021/06/10 00:00:00+00"
+    },
+    "Boyaca": {
+      "administered": 347761,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 0,
+      "updated": "2021/06/10 00:00:00+00"
+    },
+    "Caldas": {
+      "administered": 278372,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 0,
+      "updated": "2021/06/10 00:00:00+00"
+    },
+    "Capital District": {
+      "administered": 2362799,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 0,
+      "updated": "2021/06/10 00:00:00+00"
+    },
+    "Caqueta": {
+      "administered": 66070,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 0,
+      "updated": "2021/06/10 00:00:00+00"
+    },
+    "Casanare": {
+      "administered": 79499,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 0,
+      "updated": "2021/06/10 00:00:00+00"
+    },
+    "Cauca": {
+      "administered": 192509,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 0,
+      "updated": "2021/06/10 00:00:00+00"
+    },
+    "Cesar": {
+      "administered": 200446,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 0,
+      "updated": "2021/06/10 00:00:00+00"
+    },
+    "Choco": {
+      "administered": 46927,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 0,
+      "updated": "2021/06/10 00:00:00+00"
+    },
+    "Cordoba": {
+      "administered": 317236,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 0,
+      "updated": "2021/06/10 00:00:00+00"
+    },
+    "Cundinamarca": {
+      "administered": 693582,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 0,
+      "updated": "2021/06/10 00:00:00+00"
+    },
+    "Guainia": {
+      "administered": 19871,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 0,
+      "updated": "2021/06/10 00:00:00+00"
+    },
+    "Guaviare": {
+      "administered": 11736,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 0,
+      "updated": "2021/06/10 00:00:00+00"
+    },
+    "Huila": {
+      "administered": 229401,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 0,
+      "updated": "2021/06/10 00:00:00+00"
+    },
+    "La Guajira": {
+      "administered": 114501,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 0,
+      "updated": "2021/06/10 00:00:00+00"
+    },
+    "Magdalena": {
+      "administered": 250323,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 0,
+      "updated": "2021/06/10 00:00:00+00"
+    },
+    "Meta": {
+      "administered": 191639,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 0,
+      "updated": "2021/06/10 00:00:00+00"
+    },
+    "Narino": {
+      "administered": 329444,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 0,
+      "updated": "2021/06/10 00:00:00+00"
+    },
+    "Norte de Santander": {
+      "administered": 326732,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 0,
+      "updated": "2021/06/10 00:00:00+00"
+    },
+    "Putumayo": {
+      "administered": 40860,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 0,
+      "updated": "2021/06/10 00:00:00+00"
+    },
+    "Quindio": {
+      "administered": 178305,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 0,
+      "updated": "2021/06/10 00:00:00+00"
+    },
+    "Risaralda": {
+      "administered": 286037,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 0,
+      "updated": "2021/06/10 00:00:00+00"
+    },
+    "San Andres y Providencia": {
+      "administered": 18891,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 0,
+      "updated": "2021/06/10 00:00:00+00"
+    },
+    "Santander": {
+      "administered": 627981,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 0,
+      "updated": "2021/06/10 00:00:00+00"
+    },
+    "Sucre": {
+      "administered": 192013,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 0,
+      "updated": "2021/06/10 00:00:00+00"
+    },
+    "Tolima": {
+      "administered": 361035,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 0,
+      "updated": "2021/06/10 00:00:00+00"
+    },
+    "Unassigned": {
+      "administered": 0,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 0,
+      "updated": "2021/06/10 00:00:00+00"
+    },
+    "Valle del Cauca": {
+      "administered": 1135908,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 0,
+      "updated": "2021/06/10 00:00:00+00"
+    },
+    "Vaupes": {
+      "administered": 15245,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 0,
+      "updated": "2021/06/10 00:00:00+00"
+    },
+    "Vichada": {
+      "administered": 7233,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 0,
+      "updated": "2021/06/10 00:00:00+00"
+    }
+  },
+  "Costa Rica": {
+    "All": {
+      "administered": 1906177,
+      "people_vaccinated": 686626,
+      "people_partially_vaccinated": 1219551,
+      "country": "Costa Rica",
+      "population": 4905769,
+      "sq_km_area": 51100,
+      "life_expectancy": "75.8",
+      "elevation_in_meters": 746,
+      "continent": "North America",
+      "abbreviation": "CR",
+      "location": "Central America",
+      "iso": 188,
+      "capital_city": "San Jos",
+      "updated": "2021/06/10 00:00:00+00"
+    }
+  },
+  "Cote d'Ivoire": {
+    "All": {
+      "administered": 606907,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 606907,
+      "country": "Cote d'Ivoire",
+      "population": 24294750,
+      "sq_km_area": 322463,
+      "life_expectancy": "45.2",
+      "elevation_in_meters": 250,
+      "continent": "Africa",
+      "abbreviation": "CI",
+      "location": "Western Africa",
+      "iso": 384,
+      "capital_city": "Yamoussoukro",
+      "updated": "2021/06/10 00:00:00+00"
+    }
+  },
+  "Croatia": {
+    "All": {
+      "administered": 1920656,
+      "people_vaccinated": 574915,
+      "people_partially_vaccinated": 1345741,
+      "country": "Croatia",
+      "population": 4189353,
+      "sq_km_area": 56538,
+      "life_expectancy": "73.7",
+      "elevation_in_meters": 331,
+      "continent": "Europe",
+      "abbreviation": "HR",
+      "location": "Southern Europe",
+      "iso": 191,
+      "capital_city": "Zagreb",
+      "updated": "2021/06/10 00:00:00+00"
+    }
+  },
+  "Cyprus": {
+    "All": {
+      "administered": 662063,
+      "people_vaccinated": 253550,
+      "people_partially_vaccinated": 408513,
+      "country": "Cyprus",
+      "population": 1179551,
+      "sq_km_area": 9251,
+      "life_expectancy": "76.7",
+      "elevation_in_meters": 91,
+      "continent": "Asia",
+      "abbreviation": "CY",
+      "location": "Middle East",
+      "iso": 196,
+      "capital_city": "Nicosia",
+      "updated": "2021/06/10 00:00:00+00"
+    }
+  },
+  "Czechia": {
+    "All": {
+      "administered": 6099710,
+      "people_vaccinated": 1852757,
+      "people_partially_vaccinated": 4303854,
+      "country": "Czechia",
+      "population": 10618303,
+      "sq_km_area": 78866,
+      "life_expectancy": "74.5",
+      "elevation_in_meters": 433,
+      "continent": "Europe",
+      "abbreviation": "CZ",
+      "location": "Eastern Europe",
+      "iso": 203,
+      "capital_city": "Praha",
+      "updated": "2021/06/10 00:00:00+00"
+    }
+  },
+  "Denmark": {
+    "All": {
+      "administered": 3835010,
+      "people_vaccinated": 1390377,
+      "people_partially_vaccinated": 2444633,
+      "country": "Denmark",
+      "population": 5733551,
+      "sq_km_area": 43094,
+      "life_expectancy": "76.5",
+      "elevation_in_meters": 34,
+      "continent": "Europe",
+      "abbreviation": "DK",
+      "location": "Nordic Countries",
+      "iso": 208,
+      "capital_city": "Copenhagen",
+      "updated": "2021/06/10 00:00:00+00"
+    },
+    "Faroe Islands": {
+      "administered": 38242,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 0,
+      "updated": "2021/06/10 00:00:00+00"
+    },
+    "Greenland": {
+      "administered": 26423,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 0,
+      "updated": "2021/06/10 00:00:00+00"
+    }
+  },
+  "Dominica": {
+    "All": {
+      "administered": 37126,
+      "people_vaccinated": 17296,
+      "people_partially_vaccinated": 19830,
+      "country": "Dominica",
+      "population": 73925,
+      "sq_km_area": 751,
+      "life_expectancy": "73.4",
+      "elevation_in_meters": null,
+      "continent": "North America",
+      "abbreviation": "DM",
+      "location": "Caribbean",
+      "iso": 212,
+      "capital_city": "Roseau",
+      "updated": "2021/06/10 00:00:00+00"
+    }
+  },
+  "Dominican Republic": {
+    "All": {
+      "administered": 5652133,
+      "people_vaccinated": 1562041,
+      "people_partially_vaccinated": 4090092,
+      "country": "Dominican Republic",
+      "population": 10766998,
+      "sq_km_area": 48511,
+      "life_expectancy": "73.2",
+      "elevation_in_meters": 424,
+      "continent": "North America",
+      "abbreviation": "DO",
+      "location": "Caribbean",
+      "iso": 214,
+      "capital_city": "Santo Domingo de Guzm",
+      "updated": "2021/06/10 00:00:00+00"
+    }
+  },
+  "Ecuador": {
+    "All": {
+      "administered": 2717072,
+      "people_vaccinated": 891976,
+      "people_partially_vaccinated": 1825096,
+      "country": "Ecuador",
+      "population": 16624858,
+      "sq_km_area": 283561,
+      "life_expectancy": "71.1",
+      "elevation_in_meters": "1,117",
+      "continent": "South America",
+      "abbreviation": "EC",
+      "location": "South America",
+      "iso": 218,
+      "capital_city": "Quito",
+      "updated": "2021/06/10 00:00:00+00"
+    }
+  },
+  "Egypt": {
+    "All": {
+      "administered": 2822479,
+      "people_vaccinated": 356958,
+      "people_partially_vaccinated": 2465521,
+      "country": "Egypt",
+      "population": 97553151,
+      "sq_km_area": 1001449,
+      "life_expectancy": "63.3",
+      "elevation_in_meters": 321,
+      "continent": "Africa",
+      "abbreviation": "EG",
+      "location": "Northern Africa",
+      "iso": 818,
+      "capital_city": "Cairo",
+      "updated": "2021/06/10 00:00:00+00"
+    }
+  },
+  "El Salvador": {
+    "All": {
+      "administered": 2147224,
+      "people_vaccinated": 901540,
+      "people_partially_vaccinated": 1245684,
+      "country": "El Salvador",
+      "population": 6377853,
+      "sq_km_area": 21041,
+      "life_expectancy": "69.7",
+      "elevation_in_meters": 442,
+      "continent": "North America",
+      "abbreviation": "SV",
+      "location": "Central America",
+      "iso": 222,
+      "capital_city": "San Salvador",
+      "updated": "2021/06/10 00:00:00+00"
+    }
+  },
+  "Equatorial Guinea": {
+    "All": {
+      "administered": 236189,
+      "people_vaccinated": 87610,
+      "people_partially_vaccinated": 148579,
+      "country": "Equatorial Guinea",
+      "population": 1267689,
+      "sq_km_area": 28051,
+      "life_expectancy": "53.6",
+      "elevation_in_meters": 577,
+      "continent": "Africa",
+      "abbreviation": "GQ",
+      "location": "Central Africa",
+      "iso": 226,
+      "capital_city": "Malabo",
+      "updated": "2021/06/10 00:00:00+00"
+    }
+  },
+  "Estonia": {
+    "All": {
+      "administered": 778233,
+      "people_vaccinated": 270323,
+      "people_partially_vaccinated": 507910,
+      "country": "Estonia",
+      "population": 1309632,
+      "sq_km_area": 45227,
+      "life_expectancy": "69.5",
+      "elevation_in_meters": 61,
+      "continent": "Europe",
+      "abbreviation": "EE",
+      "location": "Baltic Countries",
+      "iso": 233,
+      "capital_city": "Tallinn",
+      "updated": "2021/06/10 00:00:00+00"
+    }
+  },
+  "Eswatini": {
+    "All": {
+      "administered": 35227,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 35227,
+      "updated": "2021/06/10 00:00:00+00"
+    }
+  },
+  "Ethiopia": {
+    "All": {
+      "administered": 1894717,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 1894717,
+      "country": "Ethiopia",
+      "population": 104957438,
+      "sq_km_area": 1104300,
+      "life_expectancy": "45.2",
+      "elevation_in_meters": "1,330",
+      "continent": "Africa",
+      "abbreviation": "ET",
+      "location": "Eastern Africa",
+      "iso": 231,
+      "capital_city": "Addis Abeba",
+      "updated": "2021/06/10 00:00:00+00"
+    }
+  },
+  "Fiji": {
+    "All": {
+      "administered": 223429,
+      "people_vaccinated": 4599,
+      "people_partially_vaccinated": 218830,
+      "country": "Fiji",
+      "population": 905502,
+      "sq_km_area": 18274,
+      "life_expectancy": "67.9",
+      "elevation_in_meters": null,
+      "continent": "Oceania",
+      "abbreviation": "FJ",
+      "location": "Melanesia",
+      "iso": null,
+      "capital_city": "Suva",
+      "updated": "2021/06/10 00:00:00+00"
+    }
+  },
+  "Finland": {
+    "All": {
+      "administered": 3292288,
+      "people_vaccinated": 626501,
+      "people_partially_vaccinated": 2665787,
+      "country": "Finland",
+      "population": 5523231,
+      "sq_km_area": 338145,
+      "life_expectancy": "77.4",
+      "elevation_in_meters": 164,
+      "continent": "Europe",
+      "abbreviation": "FI",
+      "location": "Nordic Countries",
+      "iso": 246,
+      "capital_city": "Helsinki [Helsingfors]",
+      "updated": "2021/06/10 00:00:00+00"
+    }
+  },
+  "France": {
+    "All": {
+      "administered": 40841175,
+      "people_vaccinated": 12906685,
+      "people_partially_vaccinated": 28310571,
+      "country": "France",
+      "population": 64979548,
+      "sq_km_area": 551500,
+      "life_expectancy": "78.8",
+      "elevation_in_meters": 375,
+      "continent": "Europe",
+      "abbreviation": "FR",
+      "location": "Western Europe",
+      "iso": 250,
+      "capital_city": "Paris",
+      "updated": "2021/06/10 00:00:00+00"
+    }
+  },
+  "Gabon": {
+    "All": {
+      "administered": 25313,
+      "people_vaccinated": 9019,
+      "people_partially_vaccinated": 14352,
+      "country": "Gabon",
+      "population": 2025137,
+      "sq_km_area": 267668,
+      "life_expectancy": "50.1",
+      "elevation_in_meters": 377,
+      "continent": "Africa",
+      "abbreviation": "GA",
+      "location": "Central Africa",
+      "iso": 266,
+      "capital_city": "Libreville",
+      "updated": "2021/06/10 00:00:00+00"
+    }
+  },
+  "Gambia": {
+    "All": {
+      "administered": 40810,
+      "people_vaccinated": 10389,
+      "people_partially_vaccinated": 30421,
+      "country": "Gambia",
+      "population": 2100568,
+      "sq_km_area": 11295,
+      "life_expectancy": "53.2",
+      "elevation_in_meters": 34,
+      "continent": "Africa",
+      "abbreviation": "GM",
+      "location": "Western Africa",
+      "iso": 270,
+      "capital_city": "Banjul",
+      "updated": "2021/06/10 00:00:00+00"
+    }
+  },
+  "Georgia": {
+    "All": {
+      "administered": 229986,
+      "people_vaccinated": 51248,
+      "people_partially_vaccinated": 178738,
+      "country": "Georgia",
+      "population": 3912061,
+      "sq_km_area": 69700,
+      "life_expectancy": "64.5",
+      "elevation_in_meters": "1,432",
+      "continent": "Asia",
+      "abbreviation": "GE",
+      "location": "Middle East",
+      "iso": 268,
+      "capital_city": "Tbilisi",
+      "updated": "2021/06/10 00:00:00+00"
+    }
+  },
+  "Germany": {
+    "All": {
+      "administered": 56592971,
+      "people_vaccinated": 18187186,
+      "people_partially_vaccinated": 38245152,
+      "country": "Germany",
+      "population": 82114224,
+      "sq_km_area": 357022,
+      "life_expectancy": "77.4",
+      "elevation_in_meters": 263,
+      "continent": "Europe",
+      "abbreviation": "DE",
+      "location": "Western Europe",
+      "iso": 276,
+      "capital_city": "Berlin",
+      "updated": "2021/06/10 00:00:00+00"
+    }
+  },
+  "Ghana": {
+    "All": {
+      "administered": 1228216,
+      "people_vaccinated": 376169,
+      "people_partially_vaccinated": 852047,
+      "country": "Ghana",
+      "population": 28833629,
+      "sq_km_area": 238533,
+      "life_expectancy": "57.4",
+      "elevation_in_meters": 190,
+      "continent": "Africa",
+      "abbreviation": "GH",
+      "location": "Western Africa",
+      "iso": 288,
+      "capital_city": "Accra",
+      "updated": "2021/06/10 00:00:00+00"
+    }
+  },
+  "Greece": {
+    "All": {
+      "administered": 6361417,
+      "people_vaccinated": 2435852,
+      "people_partially_vaccinated": 4062809,
+      "country": "Greece",
+      "population": 11159773,
+      "sq_km_area": 131626,
+      "life_expectancy": "78.4",
+      "elevation_in_meters": 498,
+      "continent": "Europe",
+      "abbreviation": "GR",
+      "location": "Southern Europe",
+      "iso": 300,
+      "capital_city": "Athenai",
+      "updated": "2021/06/10 00:00:00+00"
+    }
+  },
+  "Grenada": {
+    "All": {
+      "administered": 26975,
+      "people_vaccinated": 9005,
+      "people_partially_vaccinated": 17970,
+      "country": "Grenada",
+      "population": 107825,
+      "sq_km_area": 344,
+      "life_expectancy": "64.5",
+      "elevation_in_meters": null,
+      "continent": "North America",
+      "abbreviation": "GD",
+      "location": "Caribbean",
+      "iso": 308,
+      "capital_city": "Saint George's",
+      "updated": "2021/06/10 00:00:00+00"
+    }
+  },
+  "Guatemala": {
+    "All": {
+      "administered": 620011,
+      "people_vaccinated": 115279,
+      "people_partially_vaccinated": 492410,
+      "country": "Guatemala",
+      "population": 16913503,
+      "sq_km_area": 108889,
+      "life_expectancy": "66.2",
+      "elevation_in_meters": 759,
+      "continent": "North America",
+      "abbreviation": "GT",
+      "location": "Central America",
+      "iso": 320,
+      "capital_city": "Ciudad de Guatemala",
+      "updated": "2021/06/10 00:00:00+00"
+    }
+  },
+  "Guinea": {
+    "All": {
+      "administered": 375664,
+      "people_vaccinated": 92906,
+      "people_partially_vaccinated": 282758,
+      "country": "Guinea",
+      "population": 12717176,
+      "sq_km_area": 245857,
+      "life_expectancy": "45.6",
+      "elevation_in_meters": 472,
+      "continent": "Africa",
+      "abbreviation": "GN",
+      "location": "Western Africa",
+      "iso": 324,
+      "capital_city": "Conakry",
+      "updated": "2021/06/10 00:00:00+00"
+    }
+  },
+  "Guyana": {
+    "All": {
+      "administered": 285247,
+      "people_vaccinated": 75412,
+      "people_partially_vaccinated": 209835,
+      "country": "Guyana",
+      "population": 777859,
+      "sq_km_area": 214969,
+      "life_expectancy": 64,
+      "elevation_in_meters": 207,
+      "continent": "South America",
+      "abbreviation": "GY",
+      "location": "South America",
+      "iso": 328,
+      "capital_city": "Georgetown",
+      "updated": "2021/06/10 00:00:00+00"
+    }
+  },
+  "Honduras": {
+    "All": {
+      "administered": 420531,
+      "people_vaccinated": 56960,
+      "people_partially_vaccinated": 369571,
+      "country": "Honduras",
+      "population": 9265067,
+      "sq_km_area": 112088,
+      "life_expectancy": "69.9",
+      "elevation_in_meters": 684,
+      "continent": "North America",
+      "abbreviation": "HN",
+      "location": "Central America",
+      "iso": 340,
+      "capital_city": "Tegucigalpa",
+      "updated": "2021/06/10 00:00:00+00"
+    }
+  },
+  "Hungary": {
+    "All": {
+      "administered": 9249943,
+      "people_vaccinated": 3989525,
+      "people_partially_vaccinated": 5260418,
+      "country": "Hungary",
+      "population": 9721559,
+      "sq_km_area": 93030,
+      "life_expectancy": "71.4",
+      "elevation_in_meters": 143,
+      "continent": "Europe",
+      "abbreviation": "HU",
+      "location": "Eastern Europe",
+      "iso": 348,
+      "capital_city": "Budapest",
+      "updated": "2021/06/10 00:00:00+00"
+    }
+  },
+  "Iceland": {
+    "All": {
+      "administered": 303745,
+      "people_vaccinated": 101713,
+      "people_partially_vaccinated": 188208,
+      "country": "Iceland",
+      "population": 335025,
+      "sq_km_area": 103000,
+      "life_expectancy": "79.4",
+      "elevation_in_meters": 557,
+      "continent": "Europe",
+      "abbreviation": "IS",
+      "location": "Nordic Countries",
+      "iso": 352,
+      "capital_city": "Reykjav",
+      "updated": "2021/06/10 00:00:00+00"
+    }
+  },
+  "India": {
+    "All": {
+      "administered": 242726693,
+      "people_vaccinated": 45317035,
+      "people_partially_vaccinated": 188363894,
+      "country": "India",
+      "population": 1339180127,
+      "sq_km_area": 3287263,
+      "life_expectancy": "62.5",
+      "elevation_in_meters": 160,
+      "continent": "Asia",
+      "abbreviation": "IN",
+      "location": "Southern and Central Asia",
+      "iso": 356,
+      "capital_city": "New Delhi",
+      "updated": "2021/06/10 00:00:00+00"
+    },
+    "Andaman and Nicobar Islands": {
+      "administered": 128483,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 0,
+      "updated": "2021/06/10 00:00:00+00"
+    },
+    "Andhra Pradesh": {
+      "administered": 11224580,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 0,
+      "updated": "2021/06/10 00:00:00+00"
+    },
+    "Arunachal Pradesh": {
+      "administered": 395696,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 0,
+      "updated": "2021/06/10 00:00:00+00"
+    },
+    "Assam": {
+      "administered": 4490118,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 0,
+      "updated": "2021/06/10 00:00:00+00"
+    },
+    "Bihar": {
+      "administered": 11403526,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 0,
+      "updated": "2021/06/10 00:00:00+00"
+    },
+    "Chandigarh": {
+      "administered": 387064,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 0,
+      "updated": "2021/06/10 00:00:00+00"
+    },
+    "Chhattisgarh": {
+      "administered": 7164925,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 0,
+      "updated": "2021/06/10 00:00:00+00"
+    },
+    "Dadra and Nagar Haveli and Daman and Diu": {
+      "administered": 240124,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 0,
+      "updated": "2021/06/10 00:00:00+00"
+    },
+    "Delhi": {
+      "administered": 5830588,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 0,
+      "updated": "2021/06/10 00:00:00+00"
+    },
+    "Goa": {
+      "administered": 600694,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 0,
+      "updated": "2021/06/10 00:00:00+00"
+    },
+    "Gujarat": {
+      "administered": 19188514,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 0,
+      "updated": "2021/06/10 00:00:00+00"
+    },
+    "Haryana": {
+      "administered": 6426960,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 0,
+      "updated": "2021/06/10 00:00:00+00"
+    },
+    "Himachal Pradesh": {
+      "administered": 2557793,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 0,
+      "updated": "2021/06/10 00:00:00+00"
+    },
+    "Jammu and Kashmir": {
+      "administered": 3547946,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 0,
+      "updated": "2021/06/10 00:00:00+00"
+    },
+    "Jharkhand": {
+      "administered": 4729484,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 0,
+      "updated": "2021/06/10 00:00:00+00"
+    },
+    "Karnataka": {
+      "administered": 15978605,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 0,
+      "updated": "2021/06/10 00:00:00+00"
+    },
+    "Kerala": {
+      "administered": 10819330,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 0,
+      "updated": "2021/06/10 00:00:00+00"
+    },
+    "Ladakh": {
+      "administered": 183442,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 0,
+      "updated": "2021/06/10 00:00:00+00"
+    },
+    "Lakshadweep": {
+      "administered": 42751,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 0,
+      "updated": "2021/06/10 00:00:00+00"
+    },
+    "Madhya Pradesh": {
+      "administered": 13578548,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 0,
+      "updated": "2021/06/10 00:00:00+00"
+    },
+    "Maharashtra": {
+      "administered": 25015546,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 0,
+      "updated": "2021/06/10 00:00:00+00"
+    },
+    "Manipur": {
+      "administered": 522482,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 0,
+      "updated": "2021/06/10 00:00:00+00"
+    },
+    "Meghalaya": {
+      "administered": 480203,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 0,
+      "updated": "2021/06/10 00:00:00+00"
+    },
+    "Mizoram": {
+      "administered": 335037,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 0,
+      "updated": "2021/06/10 00:00:00+00"
+    },
+    "Nagaland": {
+      "administered": 312156,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 0,
+      "updated": "2021/06/10 00:00:00+00"
+    },
+    "Odisha": {
+      "administered": 8744175,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 0,
+      "updated": "2021/06/10 00:00:00+00"
+    },
+    "Puducherry": {
+      "administered": 305420,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 0,
+      "updated": "2021/06/10 00:00:00+00"
+    },
+    "Punjab": {
+      "administered": 5431675,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 0,
+      "updated": "2021/06/10 00:00:00+00"
+    },
+    "Rajasthan": {
+      "administered": 18476955,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 0,
+      "updated": "2021/06/10 00:00:00+00"
+    },
+    "Sikkim": {
+      "administered": 244282,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 0,
+      "updated": "2021/06/10 00:00:00+00"
+    },
+    "Tamil Nadu": {
+      "administered": 10218925,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 0,
+      "updated": "2021/06/10 00:00:00+00"
+    },
+    "Telangana": {
+      "administered": 7209848,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 0,
+      "updated": "2021/06/10 00:00:00+00"
+    },
+    "Tripura": {
+      "administered": 1646212,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 0,
+      "updated": "2021/06/10 00:00:00+00"
+    },
+    "Uttar Pradesh": {
+      "administered": 21565323,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 0,
+      "updated": "2021/06/10 00:00:00+00"
+    },
+    "Uttarakhand": {
+      "administered": 3155806,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 0,
+      "updated": "2021/06/10 00:00:00+00"
+    },
+    "West Bengal": {
+      "administered": 16934231,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 0,
+      "updated": "2021/06/10 00:00:00+00"
+    }
+  },
+  "Indonesia": {
+    "All": {
+      "administered": 29616507,
+      "people_vaccinated": 11356025,
+      "people_partially_vaccinated": 18260482,
+      "country": "Indonesia",
+      "population": 263991379,
+      "sq_km_area": 1904569,
+      "life_expectancy": "70.1",
+      "elevation_in_meters": 367,
+      "continent": "Asia",
+      "abbreviation": "ID",
+      "location": "Southeast Asia",
+      "iso": 360,
+      "capital_city": "Jakarta",
+      "updated": "2021/06/10 00:00:00+00"
+    }
+  },
+  "Iran": {
+    "All": {
+      "administered": 4553653,
+      "people_vaccinated": 637870,
+      "people_partially_vaccinated": 3915783,
+      "country": "Iran",
+      "population": 81162788,
+      "sq_km_area": 1648195,
+      "life_expectancy": "69.7",
+      "elevation_in_meters": "1,305",
+      "continent": "Asia",
+      "abbreviation": "IR",
+      "location": "Southern and Central Asia",
+      "iso": 364,
+      "capital_city": "Tehran",
+      "updated": "2021/06/10 00:00:00+00"
+    }
+  },
+  "Iraq": {
+    "All": {
+      "administered": 613840,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 453361,
+      "country": "Iraq",
+      "population": 38274618,
+      "sq_km_area": 438317,
+      "life_expectancy": "66.5",
+      "elevation_in_meters": 312,
+      "continent": "Asia",
+      "abbreviation": "IQ",
+      "location": "Middle East",
+      "iso": 368,
+      "capital_city": "Baghdad",
+      "updated": "2021/06/10 00:00:00+00"
+    }
+  },
+  "Ireland": {
+    "All": {
+      "administered": 2387348,
+      "people_vaccinated": 514808,
+      "people_partially_vaccinated": 1760642,
+      "country": "Ireland",
+      "population": 4761657,
+      "sq_km_area": 70273,
+      "life_expectancy": "76.8",
+      "elevation_in_meters": 118,
+      "continent": "Europe",
+      "abbreviation": "IE",
+      "location": "British Isles",
+      "iso": 372,
+      "capital_city": "Dublin",
+      "updated": "2021/06/10 00:00:00+00"
+    }
+  },
+  "Israel": {
+    "All": {
+      "administered": 10613141,
+      "people_vaccinated": 5139005,
+      "people_partially_vaccinated": 5462996,
+      "country": "Israel",
+      "population": 8321570,
+      "sq_km_area": 21056,
+      "life_expectancy": "78.6",
+      "elevation_in_meters": 508,
+      "continent": "Asia",
+      "abbreviation": "IL",
+      "location": "Middle East",
+      "iso": 376,
+      "capital_city": "Jerusalem",
+      "updated": "2021/06/10 00:00:00+00"
+    }
+  },
+  "Italy": {
+    "All": {
+      "administered": 39891977,
+      "people_vaccinated": 13338891,
+      "people_partially_vaccinated": 26989197,
+      "country": "Italy",
+      "population": 59359900,
+      "sq_km_area": 301316,
+      "life_expectancy": 79,
+      "elevation_in_meters": 538,
+      "continent": "Europe",
+      "abbreviation": "IT",
+      "location": "Southern Europe",
+      "iso": 380,
+      "capital_city": "Roma",
+      "updated": "2021/06/10 00:00:00+00"
+    },
+    "Abruzzo": {
+      "administered": 902470,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 0,
+      "updated": "2021/06/10 00:00:00+00"
+    },
+    "Basilicata": {
+      "administered": 371961,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 0,
+      "updated": "2021/06/10 00:00:00+00"
+    },
+    "Calabria": {
+      "administered": 1201290,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 0,
+      "updated": "2021/06/10 00:00:00+00"
+    },
+    "Campania": {
+      "administered": 3872154,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 0,
+      "updated": "2021/06/10 00:00:00+00"
+    },
+    "Emilia-Romagna": {
+      "administered": 3008165,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 0,
+      "updated": "2021/06/10 00:00:00+00"
+    },
+    "Friuli Venezia Giulia": {
+      "administered": 830478,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 0,
+      "updated": "2021/06/10 00:00:00+00"
+    },
+    "Lazio": {
+      "administered": 3902403,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 0,
+      "updated": "2021/06/10 00:00:00+00"
+    },
+    "Liguria": {
+      "administered": 1074242,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 0,
+      "updated": "2021/06/10 00:00:00+00"
+    },
+    "Lombardia": {
+      "administered": 6924722,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 0,
+      "updated": "2021/06/10 00:00:00+00"
+    },
+    "Marche": {
+      "administered": 1026718,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 0,
+      "updated": "2021/06/10 00:00:00+00"
+    },
+    "Molise": {
+      "administered": 213071,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 0,
+      "updated": "2021/06/10 00:00:00+00"
+    },
+    "P.A. Bolzano": {
+      "administered": 358103,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 0,
+      "updated": "2021/06/10 00:00:00+00"
+    },
+    "P.A. Trento": {
+      "administered": 339814,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 0,
+      "updated": "2021/06/10 00:00:00+00"
+    },
+    "Piemonte": {
+      "administered": 2834616,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 0,
+      "updated": "2021/06/10 00:00:00+00"
+    },
+    "Puglia": {
+      "administered": 2725566,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 0,
+      "updated": "2021/06/10 00:00:00+00"
+    },
+    "Sardegna": {
+      "administered": 1028242,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 0,
+      "updated": "2021/06/10 00:00:00+00"
+    },
+    "Sicilia": {
+      "administered": 2990975,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 0,
+      "updated": "2021/06/10 00:00:00+00"
+    },
+    "Toscana": {
+      "administered": 2415296,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 0,
+      "updated": "2021/06/10 00:00:00+00"
+    },
+    "Umbria": {
+      "administered": 592397,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 0,
+      "updated": "2021/06/10 00:00:00+00"
+    },
+    "Valle d'Aosta": {
+      "administered": 83162,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 0,
+      "updated": "2021/06/10 00:00:00+00"
+    },
+    "Veneto": {
+      "administered": 3196132,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 0,
+      "updated": "2021/06/10 00:00:00+00"
+    }
+  },
+  "Jamaica": {
+    "All": {
+      "administered": 177889,
+      "people_vaccinated": 22206,
+      "people_partially_vaccinated": 155683,
+      "country": "Jamaica",
+      "population": 2890299,
+      "sq_km_area": 10990,
+      "life_expectancy": "75.2",
+      "elevation_in_meters": 18,
+      "continent": "North America",
+      "abbreviation": "JM",
+      "location": "Caribbean",
+      "iso": 388,
+      "capital_city": "Kingston",
+      "updated": "2021/06/10 00:00:00+00"
+    }
+  },
+  "Japan": {
+    "All": {
+      "administered": 20383612,
+      "people_vaccinated": 4866397,
+      "people_partially_vaccinated": 14505288,
+      "country": "Japan",
+      "population": 127484450,
+      "sq_km_area": 377829,
+      "life_expectancy": "80.7",
+      "elevation_in_meters": 438,
+      "continent": "Asia",
+      "abbreviation": "JP",
+      "location": "Eastern Asia",
+      "iso": 392,
+      "capital_city": "Tokyo",
+      "updated": "2021/06/10 00:00:00+00"
+    }
+  },
+  "Jordan": {
+    "All": {
+      "administered": 2307978,
+      "people_vaccinated": 559894,
+      "people_partially_vaccinated": 1748084,
+      "country": "Jordan",
+      "population": 9702353,
+      "sq_km_area": 88946,
+      "life_expectancy": "77.4",
+      "elevation_in_meters": 812,
+      "continent": "Asia",
+      "abbreviation": "JO",
+      "location": "Middle East",
+      "iso": 400,
+      "capital_city": "Amman",
+      "updated": "2021/06/10 00:00:00+00"
+    }
+  },
+  "Kazakhstan": {
+    "All": {
+      "administered": 3498939,
+      "people_vaccinated": 1213041,
+      "people_partially_vaccinated": 2285898,
+      "country": "Kazakhstan",
+      "population": 18204499,
+      "sq_km_area": 2724900,
+      "life_expectancy": "63.2",
+      "elevation_in_meters": null,
+      "continent": "Asia",
+      "abbreviation": "KZ",
+      "location": "Southern and Central Asia",
+      "iso": null,
+      "capital_city": "Astana",
+      "updated": "2021/06/10 00:00:00+00"
+    }
+  },
+  "Kenya": {
+    "All": {
+      "administered": 1005509,
+      "people_vaccinated": 27382,
+      "people_partially_vaccinated": 978127,
+      "country": "Kenya",
+      "population": 49699862,
+      "sq_km_area": 580367,
+      "life_expectancy": 48,
+      "elevation_in_meters": 762,
+      "continent": "Africa",
+      "abbreviation": "KE",
+      "location": "Eastern Africa",
+      "iso": 404,
+      "capital_city": "Nairobi",
+      "updated": "2021/06/10 00:00:00+00"
+    }
+  },
+  "Kosovo": {
+    "All": {
+      "administered": 80126,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 80126,
+      "updated": "2021/06/10 00:00:00+00"
+    }
+  },
+  "Kuwait": {
+    "All": {
+      "administered": 1820000,
+      "people_vaccinated": 38000,
+      "people_partially_vaccinated": 822000,
+      "country": "Kuwait",
+      "population": 4136528,
+      "sq_km_area": 17818,
+      "life_expectancy": "76.1",
+      "elevation_in_meters": 108,
+      "continent": "Asia",
+      "abbreviation": "KW",
+      "location": "Middle East",
+      "iso": 414,
+      "capital_city": "Kuwait",
+      "updated": "2021/06/10 00:00:00+00"
+    }
+  },
+  "Kyrgyzstan": {
+    "All": {
+      "administered": 54101,
+      "people_vaccinated": 6010,
+      "people_partially_vaccinated": 37117,
+      "country": "Kyrgyzstan",
+      "population": 6045117,
+      "sq_km_area": 199900,
+      "life_expectancy": "63.4",
+      "elevation_in_meters": "2,988",
+      "continent": "Asia",
+      "abbreviation": "KG",
+      "location": "Southern and Central Asia",
+      "iso": 417,
+      "capital_city": "Bishkek",
+      "updated": "2021/06/10 00:00:00+00"
+    }
+  },
+  "Laos": {
+    "All": {
+      "administered": 982253,
+      "people_vaccinated": 302524,
+      "people_partially_vaccinated": 679729,
+      "country": "Laos",
+      "population": 6858160,
+      "sq_km_area": 236800,
+      "life_expectancy": "53.1",
+      "elevation_in_meters": 710,
+      "continent": "Asia",
+      "abbreviation": "LA",
+      "location": "Southeast Asia",
+      "iso": 418,
+      "capital_city": "Vientiane",
+      "updated": "2021/06/10 00:00:00+00"
+    }
+  },
+  "Latvia": {
+    "All": {
+      "administered": 883870,
+      "people_vaccinated": 372465,
+      "people_partially_vaccinated": 539414,
+      "country": "Latvia",
+      "population": 1949670,
+      "sq_km_area": 64589,
+      "life_expectancy": "68.4",
+      "elevation_in_meters": 87,
+      "continent": "Europe",
+      "abbreviation": "LV",
+      "location": "Baltic Countries",
+      "iso": 428,
+      "capital_city": "Riga",
+      "updated": "2021/06/10 00:00:00+00"
+    }
+  },
+  "Lebanon": {
+    "All": {
+      "administered": 907418,
+      "people_vaccinated": 304999,
+      "people_partially_vaccinated": 602419,
+      "country": "Lebanon",
+      "population": 6082357,
+      "sq_km_area": 10400,
+      "life_expectancy": "71.3",
+      "elevation_in_meters": "1,250",
+      "continent": "Asia",
+      "abbreviation": "LB",
+      "location": "Middle East",
+      "iso": 422,
+      "capital_city": "Beirut",
+      "updated": "2021/06/10 00:00:00+00"
+    }
+  },
+  "Liechtenstein": {
+    "All": {
+      "administered": 24053,
+      "people_vaccinated": 9817,
+      "people_partially_vaccinated": 14236,
+      "country": "Liechtenstein",
+      "population": 37922,
+      "sq_km_area": 160,
+      "life_expectancy": "78.8",
+      "elevation_in_meters": null,
+      "continent": "Europe",
+      "abbreviation": "LI",
+      "location": "Western Europe",
+      "iso": 438,
+      "capital_city": "Vaduz",
+      "updated": "2021/06/10 00:00:00+00"
+    }
+  },
+  "Lithuania": {
+    "All": {
+      "administered": 1852132,
+      "people_vaccinated": 719793,
+      "people_partially_vaccinated": 1132339,
+      "country": "Lithuania",
+      "population": 2890297,
+      "sq_km_area": 65301,
+      "life_expectancy": "69.1",
+      "elevation_in_meters": 110,
+      "continent": "Europe",
+      "abbreviation": "LT",
+      "location": "Baltic Countries",
+      "iso": 440,
+      "capital_city": "Vilnius",
+      "updated": "2021/06/10 00:00:00+00"
+    }
+  },
+  "Luxembourg": {
+    "All": {
+      "administered": 406570,
+      "people_vaccinated": 143931,
+      "people_partially_vaccinated": 254143,
+      "country": "Luxembourg",
+      "population": 583455,
+      "sq_km_area": 2586,
+      "life_expectancy": "77.1",
+      "elevation_in_meters": 325,
+      "continent": "Europe",
+      "abbreviation": "LU",
+      "location": "Western Europe",
+      "iso": 442,
+      "capital_city": "Luxembourg [Luxemburg/L",
+      "updated": "2021/06/10 00:00:00+00"
+    }
+  },
+  "Malawi": {
+    "All": {
+      "administered": 363928,
+      "people_vaccinated": 19,
+      "people_partially_vaccinated": 359165,
+      "country": "Malawi",
+      "population": 18622104,
+      "sq_km_area": 118484,
+      "life_expectancy": "37.6",
+      "elevation_in_meters": 779,
+      "continent": "Africa",
+      "abbreviation": "MW",
+      "location": "Eastern Africa",
+      "iso": 454,
+      "capital_city": "Lilongwe",
+      "updated": "2021/06/10 00:00:00+00"
+    }
+  },
+  "Malaysia": {
+    "All": {
+      "administered": 3790121,
+      "people_vaccinated": 1180744,
+      "people_partially_vaccinated": 2609377,
+      "country": "Malaysia",
+      "population": 31624264,
+      "sq_km_area": 329758,
+      "life_expectancy": "70.8",
+      "elevation_in_meters": 538,
+      "continent": "Asia",
+      "abbreviation": "MY",
+      "location": "Southeast Asia",
+      "iso": 458,
+      "capital_city": "Kuala Lumpur",
+      "updated": "2021/06/10 00:00:00+00"
+    }
+  },
+  "Maldives": {
+    "All": {
+      "administered": 486833,
+      "people_vaccinated": 174259,
+      "people_partially_vaccinated": 312574,
+      "country": "Maldives",
+      "population": 436330,
+      "sq_km_area": 298,
+      "life_expectancy": "62.2",
+      "elevation_in_meters": "1.8",
+      "continent": "Asia",
+      "abbreviation": "MV",
+      "location": "Southern and Central Asia",
+      "iso": 462,
+      "capital_city": "Male",
+      "updated": "2021/06/10 00:00:00+00"
+    }
+  },
+  "Mali": {
+    "All": {
+      "administered": 152430,
+      "people_vaccinated": 40991,
+      "people_partially_vaccinated": 111439,
+      "country": "Mali",
+      "population": 18541980,
+      "sq_km_area": 1240192,
+      "life_expectancy": "46.7",
+      "elevation_in_meters": 343,
+      "continent": "Africa",
+      "abbreviation": "ML",
+      "location": "Western Africa",
+      "iso": 466,
+      "capital_city": "Bamako",
+      "updated": "2021/06/10 00:00:00+00"
+    }
+  },
+  "Malta": {
+    "All": {
+      "administered": 558320,
+      "people_vaccinated": 238807,
+      "people_partially_vaccinated": 329000,
+      "country": "Malta",
+      "population": 430835,
+      "sq_km_area": 316,
+      "life_expectancy": "77.9",
+      "elevation_in_meters": null,
+      "continent": "Europe",
+      "abbreviation": "MT",
+      "location": "Southern Europe",
+      "iso": 470,
+      "capital_city": "Valletta",
+      "updated": "2021/06/10 00:00:00+00"
+    }
+  },
+  "Marshall Islands": {
+    "All": {
+      "administered": 30770,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 0,
+      "country": "Marshall Islands",
+      "population": 53127,
+      "sq_km_area": 181,
+      "life_expectancy": "65.5",
+      "elevation_in_meters": null,
+      "continent": "Oceania",
+      "abbreviation": "MH",
+      "location": "Micronesia",
+      "iso": 584,
+      "capital_city": "Dalap-Uliga-Darrit",
+      "updated": "2021/06/10 00:00:00+00"
+    }
+  },
+  "Mauritania": {
+    "All": {
+      "administered": 43607,
+      "people_vaccinated": 6770,
+      "people_partially_vaccinated": 30561,
+      "country": "Mauritania",
+      "population": 4420184,
+      "sq_km_area": 1025520,
+      "life_expectancy": "50.8",
+      "elevation_in_meters": 276,
+      "continent": "Africa",
+      "abbreviation": "MR",
+      "location": "Western Africa",
+      "iso": 478,
+      "capital_city": "Nouakchott",
+      "updated": "2021/06/10 00:00:00+00"
+    }
+  },
+  "Mauritius": {
+    "All": {
+      "administered": 455242,
+      "people_vaccinated": 207569,
+      "people_partially_vaccinated": 247673,
+      "country": "Mauritius",
+      "population": 1265138,
+      "sq_km_area": 2040,
+      "life_expectancy": 71,
+      "elevation_in_meters": null,
+      "continent": "Africa",
+      "abbreviation": "MU",
+      "location": "Eastern Africa",
+      "iso": 480,
+      "capital_city": "Port-Louis",
+      "updated": "2021/06/10 00:00:00+00"
+    }
+  },
+  "Mexico": {
+    "All": {
+      "administered": 34658545,
+      "people_vaccinated": 14193288,
+      "people_partially_vaccinated": 24224273,
+      "country": "Mexico",
+      "population": 129163276,
+      "sq_km_area": 1958201,
+      "life_expectancy": "71.5",
+      "elevation_in_meters": "1,111",
+      "continent": "North America",
+      "abbreviation": "MX",
+      "location": "Central America",
+      "iso": 484,
+      "capital_city": "Ciudad de M",
+      "updated": "2021/06/10 00:00:00+00"
+    }
+  },
+  "Micronesia": {
+    "All": {
+      "administered": 45840,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 0,
+      "updated": "2021/06/10 00:00:00+00"
+    }
+  },
+  "Moldova": {
+    "All": {
+      "administered": 480131,
+      "people_vaccinated": 113532,
+      "people_partially_vaccinated": 366599,
+      "country": "Moldova",
+      "population": 4051212,
+      "sq_km_area": 33851,
+      "life_expectancy": "64.5",
+      "elevation_in_meters": 139,
+      "continent": "Europe",
+      "abbreviation": "MD",
+      "location": "Eastern Europe",
+      "iso": 498,
+      "capital_city": "Chisinau",
+      "updated": "2021/06/10 00:00:00+00"
+    }
+  },
+  "Monaco": {
+    "All": {
+      "administered": 31774,
+      "people_vaccinated": 14070,
+      "people_partially_vaccinated": 17704,
+      "country": "Monaco",
+      "population": 38695,
+      "sq_km_area": 1.5,
+      "life_expectancy": "78.8",
+      "elevation_in_meters": null,
+      "continent": "Europe",
+      "abbreviation": "MC",
+      "location": "Western Europe",
+      "iso": 492,
+      "capital_city": "Monaco-Ville",
+      "updated": "2021/06/10 00:00:00+00"
+    }
+  },
+  "Mongolia": {
+    "All": {
+      "administered": 3481129,
+      "people_vaccinated": 1596857,
+      "people_partially_vaccinated": 1884272,
+      "country": "Mongolia",
+      "population": 3075647,
+      "sq_km_area": 1566500,
+      "life_expectancy": "67.3",
+      "elevation_in_meters": "1,528",
+      "continent": "Asia",
+      "abbreviation": "MN",
+      "location": "Eastern Asia",
+      "iso": 496,
+      "capital_city": "Ulan Bator",
+      "updated": "2021/06/10 00:00:00+00"
+    }
+  },
+  "Montenegro": {
+    "All": {
+      "administered": 248522,
+      "people_vaccinated": 106948,
+      "people_partially_vaccinated": 141574,
+      "updated": "2021/06/10 00:00:00+00"
+    }
+  },
+  "Morocco": {
+    "All": {
+      "administered": 15798674,
+      "people_vaccinated": 6457177,
+      "people_partially_vaccinated": 9341497,
+      "country": "Morocco",
+      "population": 35739580,
+      "sq_km_area": 446550,
+      "life_expectancy": "69.1",
+      "elevation_in_meters": 909,
+      "continent": "Africa",
+      "abbreviation": "MA",
+      "location": "Northern Africa",
+      "iso": 504,
+      "capital_city": "Rabat",
+      "updated": "2021/06/10 00:00:00+00"
+    }
+  },
+  "Mozambique": {
+    "All": {
+      "administered": 394312,
+      "people_vaccinated": 74801,
+      "people_partially_vaccinated": 319511,
+      "country": "Mozambique",
+      "population": 29668834,
+      "sq_km_area": 801590,
+      "life_expectancy": "37.5",
+      "elevation_in_meters": 345,
+      "continent": "Africa",
+      "abbreviation": "MZ",
+      "location": "Eastern Africa",
+      "iso": 508,
+      "capital_city": "Maputo",
+      "updated": "2021/06/10 00:00:00+00"
+    }
+  },
+  "Namibia": {
+    "All": {
+      "administered": 90718,
+      "people_vaccinated": 12321,
+      "people_partially_vaccinated": 78397,
+      "country": "Namibia",
+      "population": 2533794,
+      "sq_km_area": 824292,
+      "life_expectancy": "42.5",
+      "elevation_in_meters": "1,141",
+      "continent": "Africa",
+      "abbreviation": "NA",
+      "location": "Southern Africa",
+      "iso": 516,
+      "capital_city": "Windhoek",
+      "updated": "2021/06/10 00:00:00+00"
+    }
+  },
+  "Nepal": {
+    "All": {
+      "administered": 2804574,
+      "people_vaccinated": 691494,
+      "people_partially_vaccinated": 2113080,
+      "country": "Nepal",
+      "population": 29304998,
+      "sq_km_area": 147181,
+      "life_expectancy": "57.8",
+      "elevation_in_meters": "3,265",
+      "continent": "Asia",
+      "abbreviation": "NP",
+      "location": "Southern and Central Asia",
+      "iso": 524,
+      "capital_city": "Kathmandu",
+      "updated": "2021/06/10 00:00:00+00"
+    }
+  },
+  "Netherlands": {
+    "All": {
+      "administered": 11145074,
+      "people_vaccinated": 3357502,
+      "people_partially_vaccinated": 6900408,
+      "country": "Netherlands",
+      "population": 17035938,
+      "sq_km_area": 41526,
+      "life_expectancy": "78.3",
+      "elevation_in_meters": 30,
+      "continent": "Europe",
+      "abbreviation": "NL",
+      "location": "Western Europe",
+      "iso": 528,
+      "capital_city": "Amsterdam",
+      "updated": "2021/06/10 00:00:00+00"
+    }
+  },
+  "New Zealand": {
+    "All": {
+      "administered": 775444,
+      "people_vaccinated": 276774,
+      "people_partially_vaccinated": 498670,
+      "country": "New Zealand",
+      "population": 4705818,
+      "sq_km_area": 270534,
+      "life_expectancy": "77.8",
+      "elevation_in_meters": 388,
+      "continent": "Oceania",
+      "abbreviation": "NZ",
+      "location": "Australia and New Zealand",
+      "iso": 554,
+      "capital_city": "Wellington",
+      "updated": "2021/06/10 00:00:00+00"
+    }
+  },
+  "Nicaragua": {
+    "All": {
+      "administered": 167500,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 167500,
+      "country": "Nicaragua",
+      "population": 6217581,
+      "sq_km_area": 130000,
+      "life_expectancy": "68.7",
+      "elevation_in_meters": 298,
+      "continent": "North America",
+      "abbreviation": "NI",
+      "location": "Central America",
+      "iso": 558,
+      "capital_city": "Managua",
+      "updated": "2021/06/10 00:00:00+00"
+    }
+  },
+  "Nigeria": {
+    "All": {
+      "administered": 2225765,
+      "people_vaccinated": 261670,
+      "people_partially_vaccinated": 1964095,
+      "country": "Nigeria",
+      "population": 190886311,
+      "sq_km_area": 923768,
+      "life_expectancy": "51.6",
+      "elevation_in_meters": 380,
+      "continent": "Africa",
+      "abbreviation": "NG",
+      "location": "Western Africa",
+      "iso": 566,
+      "capital_city": "Abuja",
+      "updated": "2021/06/10 00:00:00+00"
+    }
+  },
+  "North Macedonia": {
+    "All": {
+      "administered": 399962,
+      "people_vaccinated": 150775,
+      "people_partially_vaccinated": 249187,
+      "country": "North Macedonia",
+      "population": 2024000,
+      "sq_km_area": 25713,
+      "life_expectancy": "73.8",
+      "elevation_in_meters": 741,
+      "continent": "Europe",
+      "abbreviation": "MK",
+      "location": "Southern Europe",
+      "iso": 807,
+      "capital_city": "Skopje",
+      "updated": "2021/06/10 00:00:00+00"
+    }
+  },
+  "Norway": {
+    "All": {
+      "administered": 3012227,
+      "people_vaccinated": 1190192,
+      "people_partially_vaccinated": 1822035,
+      "country": "Norway",
+      "population": 5305383,
+      "sq_km_area": 323877,
+      "life_expectancy": "78.7",
+      "elevation_in_meters": 460,
+      "continent": "Europe",
+      "abbreviation": "NO",
+      "location": "Nordic Countries",
+      "iso": 578,
+      "capital_city": "Oslo",
+      "updated": "2021/06/10 00:00:00+00"
+    }
+  },
+  "Oman": {
+    "All": {
+      "administered": 296894,
+      "people_vaccinated": 80345,
+      "people_partially_vaccinated": 216549,
+      "country": "Oman",
+      "population": 4636262,
+      "sq_km_area": 309500,
+      "life_expectancy": "71.8",
+      "elevation_in_meters": 310,
+      "continent": "Asia",
+      "abbreviation": "OM",
+      "location": "Middle East",
+      "iso": 512,
+      "capital_city": "Masqat",
+      "updated": "2021/06/10 00:00:00+00"
+    }
+  },
+  "Pakistan": {
+    "All": {
+      "administered": 8850889,
+      "people_vaccinated": 2310115,
+      "people_partially_vaccinated": 6364470,
+      "country": "Pakistan",
+      "population": 197015955,
+      "sq_km_area": 796095,
+      "life_expectancy": "61.1",
+      "elevation_in_meters": 900,
+      "continent": "Asia",
+      "abbreviation": "PK",
+      "location": "Southern and Central Asia",
+      "iso": 586,
+      "capital_city": "Islamabad",
+      "updated": "2021/06/10 00:00:00+00"
+    }
+  },
+  "Palau": {
+    "All": {
+      "administered": 24557,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 0,
+      "country": "Palau",
+      "population": 21729,
+      "sq_km_area": 459,
+      "life_expectancy": "68.6",
+      "elevation_in_meters": null,
+      "continent": "Oceania",
+      "abbreviation": "PW",
+      "location": "Micronesia",
+      "iso": 585,
+      "capital_city": "Koror",
+      "updated": "2021/06/10 00:00:00+00"
+    }
+  },
+  "Panama": {
+    "All": {
+      "administered": 1143067,
+      "people_vaccinated": 394773,
+      "people_partially_vaccinated": 748294,
+      "country": "Panama",
+      "population": 4098587,
+      "sq_km_area": 75517,
+      "life_expectancy": "75.5",
+      "elevation_in_meters": 360,
+      "continent": "North America",
+      "abbreviation": "PA",
+      "location": "Central America",
+      "iso": 591,
+      "capital_city": "Ciudad de Panam",
+      "updated": "2021/06/10 00:00:00+00"
+    }
+  },
+  "Papua New Guinea": {
+    "All": {
+      "administered": 38176,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 38176,
+      "country": "Papua New Guinea",
+      "population": 8251162,
+      "sq_km_area": 462840,
+      "life_expectancy": "63.1",
+      "elevation_in_meters": 667,
+      "continent": "Oceania",
+      "abbreviation": "PG",
+      "location": "Melanesia",
+      "iso": 598,
+      "capital_city": "Port Moresby",
+      "updated": "2021/06/10 00:00:00+00"
+    }
+  },
+  "Paraguay": {
+    "All": {
+      "administered": 448421,
+      "people_vaccinated": 79673,
+      "people_partially_vaccinated": 327971,
+      "country": "Paraguay",
+      "population": 6811297,
+      "sq_km_area": 406752,
+      "life_expectancy": "73.7",
+      "elevation_in_meters": 178,
+      "continent": "South America",
+      "abbreviation": "PY",
+      "location": "South America",
+      "iso": 600,
+      "capital_city": "Asunci",
+      "updated": "2021/06/10 00:00:00+00"
+    }
+  },
+  "Peru": {
+    "All": {
+      "administered": 4710131,
+      "people_vaccinated": 1365709,
+      "people_partially_vaccinated": 3035410,
+      "country": "Peru",
+      "population": 32165485,
+      "sq_km_area": 1285216,
+      "life_expectancy": 70,
+      "elevation_in_meters": "1,555",
+      "continent": "South America",
+      "abbreviation": "PE",
+      "location": "South America",
+      "iso": 604,
+      "capital_city": "Lima",
+      "updated": "2021/06/10 00:00:00+00"
+    }
+  },
+  "Philippines": {
+    "All": {
+      "administered": 6096208,
+      "people_vaccinated": 1604260,
+      "people_partially_vaccinated": 4491948,
+      "country": "Philippines",
+      "population": 104918090,
+      "sq_km_area": 300000,
+      "life_expectancy": "67.5",
+      "elevation_in_meters": 442,
+      "continent": "Asia",
+      "abbreviation": "PH",
+      "location": "Southeast Asia",
+      "iso": 608,
+      "capital_city": "Manila",
+      "updated": "2021/06/10 00:00:00+00"
+    }
+  },
+  "Poland": {
+    "All": {
+      "administered": 22737088,
+      "people_vaccinated": 8621029,
+      "people_partially_vaccinated": 14845783,
+      "country": "Poland",
+      "population": 38170712,
+      "sq_km_area": 323250,
+      "life_expectancy": "73.2",
+      "elevation_in_meters": 173,
+      "continent": "Europe",
+      "abbreviation": "PL",
+      "location": "Eastern Europe",
+      "iso": 616,
+      "capital_city": "Warszawa",
+      "updated": "2021/06/10 00:00:00+00"
+    },
+    "Dolnoslaskie": {
+      "administered": 1860973,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 0,
+      "updated": "2021/06/10 00:00:00+00"
+    },
+    "Kujawsko-pomorskie": {
+      "administered": 1177792,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 0,
+      "updated": "2021/06/10 00:00:00+00"
+    },
+    "Lodzkie": {
+      "administered": 1503054,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 0,
+      "updated": "2021/06/10 00:00:00+00"
+    },
+    "Lubelskie": {
+      "administered": 1110111,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 0,
+      "updated": "2021/06/10 00:00:00+00"
+    },
+    "Lubuskie": {
+      "administered": 625717,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 0,
+      "updated": "2021/06/10 00:00:00+00"
+    },
+    "Malopolskie": {
+      "administered": 1856694,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 0,
+      "updated": "2021/06/10 00:00:00+00"
+    },
+    "Mazowieckie": {
+      "administered": 3519464,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 0,
+      "updated": "2021/06/10 00:00:00+00"
+    },
+    "Opolskie": {
+      "administered": 567904,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 0,
+      "updated": "2021/06/10 00:00:00+00"
+    },
+    "Podkarpackie": {
+      "administered": 1083279,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 0,
+      "updated": "2021/06/10 00:00:00+00"
+    },
+    "Podlaskie": {
+      "administered": 711364,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 0,
+      "updated": "2021/06/10 00:00:00+00"
+    },
+    "Pomorskie": {
+      "administered": 1501195,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 0,
+      "updated": "2021/06/10 00:00:00+00"
+    },
+    "Slaskie": {
+      "administered": 2740134,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 0,
+      "updated": "2021/06/10 00:00:00+00"
+    },
+    "Swietokrzyskie": {
+      "administered": 639046,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 0,
+      "updated": "2021/06/10 00:00:00+00"
+    },
+    "Warminsko-mazurskie": {
+      "administered": 751971,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 0,
+      "updated": "2021/06/10 00:00:00+00"
+    },
+    "Wielkopolskie": {
+      "administered": 2013119,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 0,
+      "updated": "2021/06/10 00:00:00+00"
+    },
+    "Zachodniopomorskie": {
+      "administered": 1074626,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 0,
+      "updated": "2021/06/10 00:00:00+00"
+    }
+  },
+  "Portugal": {
+    "All": {
+      "administered": 6374539,
+      "people_vaccinated": 2187204,
+      "people_partially_vaccinated": 4187308,
+      "country": "Portugal",
+      "population": 10329506,
+      "sq_km_area": 91982,
+      "life_expectancy": "75.8",
+      "elevation_in_meters": 372,
+      "continent": "Europe",
+      "abbreviation": "PT",
+      "location": "Southern Europe",
+      "iso": 620,
+      "capital_city": "Lisboa",
+      "updated": "2021/06/10 00:00:00+00"
+    }
+  },
+  "Qatar": {
+    "All": {
+      "administered": 2716670,
+      "people_vaccinated": 1155189,
+      "people_partially_vaccinated": 1561481,
+      "country": "Qatar",
+      "population": 2639211,
+      "sq_km_area": 11000,
+      "life_expectancy": "72.4",
+      "elevation_in_meters": 28,
+      "continent": "Asia",
+      "abbreviation": "QA",
+      "location": "Middle East",
+      "iso": 634,
+      "capital_city": "Doha",
+      "updated": "2021/06/10 00:00:00+00"
+    }
+  },
+  "Romania": {
+    "All": {
+      "administered": 8288345,
+      "people_vaccinated": 3997752,
+      "people_partially_vaccinated": 4457688,
+      "country": "Romania",
+      "population": 19679306,
+      "sq_km_area": 238391,
+      "life_expectancy": "69.9",
+      "elevation_in_meters": 414,
+      "continent": "Europe",
+      "abbreviation": "RO",
+      "location": "Eastern Europe",
+      "iso": 642,
+      "capital_city": "Bucuresti",
+      "updated": "2021/06/10 00:00:00+00"
+    }
+  },
+  "Russia": {
+    "All": {
+      "administered": 31953145,
+      "people_vaccinated": 13513629,
+      "people_partially_vaccinated": 17782159,
+      "country": "Russia",
+      "population": 143989754,
+      "sq_km_area": 17075400,
+      "life_expectancy": "67.2",
+      "elevation_in_meters": null,
+      "continent": "Europe",
+      "abbreviation": "RU",
+      "location": "Eastern Europe",
+      "iso": null,
+      "capital_city": "Moscow",
+      "updated": "2021/06/10 00:00:00+00"
+    }
+  },
+  "Rwanda": {
+    "All": {
+      "administered": 400096,
+      "people_vaccinated": 49696,
+      "people_partially_vaccinated": 350400,
+      "country": "Rwanda",
+      "population": 12208407,
+      "sq_km_area": 26338,
+      "life_expectancy": "39.3",
+      "elevation_in_meters": "1,598",
+      "continent": "Africa",
+      "abbreviation": "RW",
+      "location": "Eastern Africa",
+      "iso": 646,
+      "capital_city": "Kigali",
+      "updated": "2021/06/10 00:00:00+00"
+    }
+  },
+  "Saint Kitts and Nevis": {
+    "All": {
+      "administered": 29628,
+      "people_vaccinated": 8562,
+      "people_partially_vaccinated": 21066,
+      "country": "Saint Kitts and Nevis",
+      "population": 55345,
+      "sq_km_area": 261,
+      "life_expectancy": "70.7",
+      "elevation_in_meters": null,
+      "continent": "North America",
+      "abbreviation": "KN",
+      "location": "Caribbean",
+      "iso": 659,
+      "capital_city": "Basseterre",
+      "updated": "2021/06/10 00:00:00+00"
+    }
+  },
+  "Saint Lucia": {
+    "All": {
+      "administered": 48666,
+      "people_vaccinated": 19752,
+      "people_partially_vaccinated": 28914,
+      "country": "Saint Lucia",
+      "population": 178844,
+      "sq_km_area": 622,
+      "life_expectancy": "72.3",
+      "elevation_in_meters": null,
+      "continent": "North America",
+      "abbreviation": "LC",
+      "location": "Caribbean",
+      "iso": 662,
+      "capital_city": "Castries",
+      "updated": "2021/06/10 00:00:00+00"
+    }
+  },
+  "Saint Vincent and the Grenadines": {
+    "All": {
+      "administered": 21422,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 18417,
+      "country": "Saint Vincent and the Grenadines",
+      "population": 109897,
+      "sq_km_area": 388,
+      "life_expectancy": "72.3",
+      "elevation_in_meters": null,
+      "continent": "North America",
+      "abbreviation": "VC",
+      "location": "Caribbean",
+      "iso": 670,
+      "capital_city": "Kingstown",
+      "updated": "2021/06/10 00:00:00+00"
+    }
+  },
+  "San Marino": {
+    "All": {
+      "administered": 43192,
+      "people_vaccinated": 21580,
+      "people_partially_vaccinated": 21612,
+      "country": "San Marino",
+      "population": 33400,
+      "sq_km_area": 61,
+      "life_expectancy": "81.1",
+      "elevation_in_meters": null,
+      "continent": "Europe",
+      "abbreviation": "SM",
+      "location": "Southern Europe",
+      "iso": 674,
+      "capital_city": "San Marino",
+      "updated": "2021/06/10 00:00:00+00"
+    }
+  },
+  "Sao Tome and Principe": {
+    "All": {
+      "administered": 23027,
+      "people_vaccinated": 10653,
+      "people_partially_vaccinated": 12374,
+      "country": "Sao Tome and Principe",
+      "population": 204327,
+      "sq_km_area": 964,
+      "life_expectancy": "65.3",
+      "elevation_in_meters": null,
+      "continent": "Africa",
+      "abbreviation": "ST",
+      "location": "Central Africa",
+      "iso": 678,
+      "capital_city": "S",
+      "updated": "2021/06/10 00:00:00+00"
+    }
+  },
+  "Saudi Arabia": {
+    "All": {
+      "administered": 15380453,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 0,
+      "country": "Saudi Arabia",
+      "population": 32938213,
+      "sq_km_area": 2149690,
+      "life_expectancy": "67.8",
+      "elevation_in_meters": 665,
+      "continent": "Asia",
+      "abbreviation": "SA",
+      "location": "Middle East",
+      "iso": 682,
+      "capital_city": "Riyadh",
+      "updated": "2021/06/10 00:00:00+00"
+    }
+  },
+  "Senegal": {
+    "All": {
+      "administered": 537467,
+      "people_vaccinated": 70889,
+      "people_partially_vaccinated": 466578,
+      "country": "Senegal",
+      "population": 15850567,
+      "sq_km_area": 196722,
+      "life_expectancy": "62.2",
+      "elevation_in_meters": 69,
+      "continent": "Africa",
+      "abbreviation": "SN",
+      "location": "Western Africa",
+      "iso": 686,
+      "capital_city": "Dakar",
+      "updated": "2021/06/10 00:00:00+00"
+    }
+  },
+  "Serbia": {
+    "All": {
+      "administered": 4770589,
+      "people_vaccinated": 2171244,
+      "people_partially_vaccinated": 2599345,
+      "updated": "2021/06/10 00:00:00+00"
+    }
+  },
+  "Seychelles": {
+    "All": {
+      "administered": 137196,
+      "people_vaccinated": 65873,
+      "people_partially_vaccinated": 70653,
+      "country": "Seychelles",
+      "population": 94737,
+      "sq_km_area": 455,
+      "life_expectancy": "70.4",
+      "elevation_in_meters": null,
+      "continent": "Africa",
+      "abbreviation": "SC",
+      "location": "Eastern Africa",
+      "iso": 690,
+      "capital_city": "Victoria",
+      "updated": "2021/06/10 00:00:00+00"
+    }
+  },
+  "Sierra Leone": {
+    "All": {
+      "administered": 83474,
+      "people_vaccinated": 11653,
+      "people_partially_vaccinated": 71821,
+      "country": "Sierra Leone",
+      "population": 7557212,
+      "sq_km_area": 71740,
+      "life_expectancy": "45.3",
+      "elevation_in_meters": 279,
+      "continent": "Africa",
+      "abbreviation": "SL",
+      "location": "Western Africa",
+      "iso": 694,
+      "capital_city": "Freetown",
+      "updated": "2021/06/10 00:00:00+00"
+    }
+  },
+  "Singapore": {
+    "All": {
+      "administered": 4392067,
+      "people_vaccinated": 1888253,
+      "people_partially_vaccinated": 2503814,
+      "country": "Singapore",
+      "population": 5708844,
+      "sq_km_area": 618,
+      "life_expectancy": "80.1",
+      "elevation_in_meters": null,
+      "continent": "Asia",
+      "abbreviation": "SG",
+      "location": "Southeast Asia",
+      "iso": 702,
+      "capital_city": "Singapore",
+      "updated": "2021/06/10 00:00:00+00"
+    }
+  },
+  "Slovakia": {
+    "All": {
+      "administered": 2864963,
+      "people_vaccinated": 1024710,
+      "people_partially_vaccinated": 1840253,
+      "country": "Slovakia",
+      "population": 5447662,
+      "sq_km_area": 49012,
+      "life_expectancy": "73.7",
+      "elevation_in_meters": 458,
+      "continent": "Europe",
+      "abbreviation": "SK",
+      "location": "Eastern Europe",
+      "iso": 703,
+      "capital_city": "Bratislava",
+      "updated": "2021/06/10 00:00:00+00"
+    }
+  },
+  "Slovenia": {
+    "All": {
+      "administered": 1223205,
+      "people_vaccinated": 493129,
+      "people_partially_vaccinated": 730076,
+      "country": "Slovenia",
+      "population": 2079976,
+      "sq_km_area": 20256,
+      "life_expectancy": "74.9",
+      "elevation_in_meters": 492,
+      "continent": "Europe",
+      "abbreviation": "SI",
+      "location": "Southern Europe",
+      "iso": 705,
+      "capital_city": "Ljubljana",
+      "updated": "2021/06/10 00:00:00+00"
+    }
+  },
+  "Solomon Islands": {
+    "All": {
+      "administered": 17065,
+      "people_vaccinated": 3479,
+      "people_partially_vaccinated": 17000,
+      "country": "Solomon Islands",
+      "population": 611343,
+      "sq_km_area": 28896,
+      "life_expectancy": "71.3",
+      "elevation_in_meters": null,
+      "continent": "Oceania",
+      "abbreviation": "SB",
+      "location": "Melanesia",
+      "iso": 90,
+      "capital_city": "Honiara",
+      "updated": "2021/06/10 00:00:00+00"
+    }
+  },
+  "South Africa": {
+    "All": {
+      "administered": 1525271,
+      "people_vaccinated": 480665,
+      "people_partially_vaccinated": 642946,
+      "country": "South Africa",
+      "population": 56717156,
+      "sq_km_area": 1221037,
+      "life_expectancy": "51.1",
+      "elevation_in_meters": "1,034",
+      "continent": "Africa",
+      "abbreviation": "ZA",
+      "location": "Southern Africa",
+      "iso": 710,
+      "capital_city": "Pretoria",
+      "updated": "2021/06/10 00:00:00+00"
+    }
+  },
+  "South Sudan": {
+    "All": {
+      "administered": 11889,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 11889,
+      "country": "South Sudan",
+      "population": 12575714,
+      "sq_km_area": 619745,
+      "life_expectancy": null,
+      "elevation_in_meters": null,
+      "continent": "Africa",
+      "abbreviation": "SS",
+      "location": "Eastern Africa",
+      "iso": 728,
+      "capital_city": "Juba",
+      "updated": "2021/06/10 00:00:00+00"
+    }
+  },
+  "Spain": {
+    "All": {
+      "administered": 31004060,
+      "people_vaccinated": 11260175,
+      "people_partially_vaccinated": 20048174,
+      "country": "Spain",
+      "population": 46354321,
+      "sq_km_area": 505992,
+      "life_expectancy": "78.8",
+      "elevation_in_meters": 660,
+      "continent": "Europe",
+      "abbreviation": "ES",
+      "location": "Southern Europe",
+      "iso": 724,
+      "capital_city": "Madrid",
+      "updated": "2021/06/10 00:00:00+00"
+    }
+  },
+  "Sri Lanka": {
+    "All": {
+      "administered": 2333591,
+      "people_vaccinated": 353789,
+      "people_partially_vaccinated": 1979802,
+      "country": "Sri Lanka",
+      "population": 20876917,
+      "life_expectancy": null,
+      "elevation_in_meters": null,
+      "location": null,
+      "iso": null,
+      "capital_city": null,
+      "updated": "2021/06/10 00:00:00+00"
+    }
+  },
+  "Sudan": {
+    "All": {
+      "administered": 465197,
+      "people_vaccinated": 60800,
+      "people_partially_vaccinated": 404397,
+      "country": "Sudan",
+      "population": 40533330,
+      "sq_km_area": 1886068,
+      "life_expectancy": "56.6",
+      "elevation_in_meters": 568,
+      "continent": "Africa",
+      "abbreviation": "SD",
+      "location": "Northern Africa",
+      "iso": 729,
+      "capital_city": "Khartum",
+      "updated": "2021/06/10 00:00:00+00"
+    }
+  },
+  "Suriname": {
+    "All": {
+      "administered": 110393,
+      "people_vaccinated": 21658,
+      "people_partially_vaccinated": 88708,
+      "country": "Suriname",
+      "population": 563402,
+      "sq_km_area": 163265,
+      "life_expectancy": "71.4",
+      "elevation_in_meters": 246,
+      "continent": "South America",
+      "abbreviation": "SR",
+      "location": "South America",
+      "iso": 740,
+      "capital_city": "Paramaribo",
+      "updated": "2021/06/10 00:00:00+00"
+    }
+  },
+  "Sweden": {
+    "All": {
+      "administered": 5838969,
+      "people_vaccinated": 1869568,
+      "people_partially_vaccinated": 3969401,
+      "country": "Sweden",
+      "population": 9910701,
+      "sq_km_area": 449964,
+      "life_expectancy": "79.6",
+      "elevation_in_meters": 320,
+      "continent": "Europe",
+      "abbreviation": "SE",
+      "location": "Nordic Countries",
+      "iso": 752,
+      "capital_city": "Stockholm",
+      "updated": "2021/06/10 00:00:00+00"
+    }
+  },
+  "Switzerland": {
+    "All": {
+      "administered": 5467187,
+      "people_vaccinated": 2057177,
+      "people_partially_vaccinated": 3410010,
+      "country": "Switzerland",
+      "population": 8476005,
+      "sq_km_area": 41284,
+      "life_expectancy": "79.6",
+      "elevation_in_meters": "1,350",
+      "continent": "Europe",
+      "abbreviation": "CH",
+      "location": "Western Europe",
+      "iso": 756,
+      "capital_city": "Bern",
+      "updated": "2021/06/10 00:00:00+00"
+    }
+  },
+  "Syria": {
+    "All": {
+      "administered": 71519,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 71519,
+      "country": "Syria",
+      "population": 18269868,
+      "sq_km_area": 185180,
+      "life_expectancy": "68.5",
+      "elevation_in_meters": 514,
+      "continent": "Asia",
+      "abbreviation": "SY",
+      "location": "Middle East",
+      "iso": 760,
+      "capital_city": "Damascus",
+      "updated": "2021/06/10 00:00:00+00"
+    }
+  },
+  "Taiwan*": {
+    "All": {
+      "administered": 743578,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 743578,
+      "updated": "2021/06/10 00:00:00+00"
+    }
+  },
+  "Thailand": {
+    "All": {
+      "administered": 5107069,
+      "people_vaccinated": 1434697,
+      "people_partially_vaccinated": 3672372,
+      "country": "Thailand",
+      "population": 69037513,
+      "sq_km_area": 513115,
+      "life_expectancy": "68.6",
+      "elevation_in_meters": 287,
+      "continent": "Asia",
+      "abbreviation": "TH",
+      "location": "Southeast Asia",
+      "iso": 764,
+      "capital_city": "Bangkok",
+      "updated": "2021/06/10 00:00:00+00"
+    }
+  },
+  "Togo": {
+    "All": {
+      "administered": 318666,
+      "people_vaccinated": 47882,
+      "people_partially_vaccinated": 270784,
+      "country": "Togo",
+      "population": 7797694,
+      "sq_km_area": 56785,
+      "life_expectancy": "54.7",
+      "elevation_in_meters": 236,
+      "continent": "Africa",
+      "abbreviation": "TG",
+      "location": "Western Africa",
+      "iso": 768,
+      "capital_city": "Lom",
+      "updated": "2021/06/10 00:00:00+00"
+    }
+  },
+  "Trinidad and Tobago": {
+    "All": {
+      "administered": 132926,
+      "people_vaccinated": 3489,
+      "people_partially_vaccinated": 129437,
+      "country": "Trinidad and Tobago",
+      "population": 1369125,
+      "sq_km_area": 5130,
+      "life_expectancy": 68,
+      "elevation_in_meters": 83,
+      "continent": "North America",
+      "abbreviation": "TT",
+      "location": "Caribbean",
+      "iso": 780,
+      "capital_city": "Port-of-Spain",
+      "updated": "2021/06/10 00:00:00+00"
+    }
+  },
+  "Tunisia": {
+    "All": {
+      "administered": 1192895,
+      "people_vaccinated": 351844,
+      "people_partially_vaccinated": 841051,
+      "country": "Tunisia",
+      "population": 11532127,
+      "sq_km_area": 163610,
+      "life_expectancy": "73.7",
+      "elevation_in_meters": 246,
+      "continent": "Africa",
+      "abbreviation": "TN",
+      "location": "Northern Africa",
+      "iso": 788,
+      "capital_city": "Tunis",
+      "updated": "2021/06/10 00:00:00+00"
+    }
+  },
+  "Turkey": {
+    "All": {
+      "administered": 31946319,
+      "people_vaccinated": 13350452,
+      "people_partially_vaccinated": 18239386,
+      "country": "Turkey",
+      "population": 80745020,
+      "sq_km_area": 774815,
+      "life_expectancy": 71,
+      "elevation_in_meters": "1,132",
+      "continent": "Asia",
+      "abbreviation": "TR",
+      "location": "Middle East",
+      "iso": 792,
+      "capital_city": "Ankara",
+      "updated": "2021/06/10 00:00:00+00"
+    }
+  },
+  "US": {
+    "All": {
+      "administered": 304753476,
+      "people_vaccinated": 14098011,
+      "people_partially_vaccinated": 172054276,
+      "country": "US",
+      "population": 324459463,
+      "sq_km_area": 9363520,
+      "life_expectancy": "77.1",
+      "elevation_in_meters": 760,
+      "continent": "North America",
+      "abbreviation": "US",
+      "location": "North America",
+      "iso": 840,
+      "capital_city": "Washington",
+      "updated": "2021/06/10 00:00:00+00"
+    }
+  },
+  "US (Aggregate)": {
+    "All": {
+      "administered": 304443324,
+      "people_vaccinated": 140980110,
+      "people_partially_vaccinated": 172054276,
+      "updated": "2021/06/10 00:00:00+00"
+    }
+  },
+  "Uganda": {
+    "All": {
+      "administered": 768434,
+      "people_vaccinated": 4129,
+      "people_partially_vaccinated": 748676,
+      "country": "Uganda",
+      "population": 42862958,
+      "sq_km_area": 241038,
+      "life_expectancy": "42.9",
+      "elevation_in_meters": null,
+      "continent": "Africa",
+      "abbreviation": "UG",
+      "location": "Eastern Africa",
+      "iso": 800,
+      "capital_city": "Kampala",
+      "updated": "2021/06/10 00:00:00+00"
+    }
+  },
+  "Ukraine": {
+    "All": {
+      "administered": 1545019,
+      "people_vaccinated": 161378,
+      "people_partially_vaccinated": 1328068,
+      "country": "Ukraine",
+      "population": 44222947,
+      "sq_km_area": 603700,
+      "life_expectancy": 66,
+      "elevation_in_meters": 175,
+      "continent": "Europe",
+      "abbreviation": "UA",
+      "location": "Eastern Europe",
+      "iso": 804,
+      "capital_city": "Kyiv",
+      "updated": "2021/06/10 00:00:00+00"
+    }
+  },
+  "United Arab Emirates": {
+    "All": {
+      "administered": 13507943,
+      "people_vaccinated": 3836521,
+      "people_partially_vaccinated": 5081853,
+      "country": "United Arab Emirates",
+      "population": 9400145,
+      "sq_km_area": 83600,
+      "life_expectancy": "74.1",
+      "elevation_in_meters": 149,
+      "continent": "Asia",
+      "abbreviation": "AE",
+      "location": "Middle East",
+      "iso": 784,
+      "capital_city": "Abu Dhabi",
+      "updated": "2021/06/10 00:00:00+00"
+    }
+  },
+  "United Kingdom": {
+    "All": {
+      "administered": 69838075,
+      "people_vaccinated": 28227362,
+      "people_partially_vaccinated": 40573517,
+      "country": "United Kingdom",
+      "population": 66181585,
+      "sq_km_area": 242900,
+      "life_expectancy": "77.7",
+      "elevation_in_meters": 162,
+      "continent": "Europe",
+      "abbreviation": "GB",
+      "location": "British Isles",
+      "iso": 826,
+      "capital_city": "London",
+      "updated": "2021/06/10 00:00:00+00"
+    },
+    "Anguilla": {
+      "administered": 14557,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 0,
+      "updated": "2021/06/10 00:00:00+00"
+    },
+    "Bermuda": {
+      "administered": 73702,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 0,
+      "updated": "2021/06/10 00:00:00+00"
+    },
+    "Cayman Islands": {
+      "administered": 86711,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 0,
+      "updated": "2021/06/10 00:00:00+00"
+    },
+    "England": {
+      "administered": 58206264,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 0,
+      "updated": "2021/06/10 00:00:00+00"
+    },
+    "Falkland Islands (Malvinas)": {
+      "administered": 4407,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 0,
+      "updated": "2021/06/10 00:00:00+00"
+    },
+    "Gibraltar": {
+      "administered": 77753,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 0,
+      "updated": "2021/06/10 00:00:00+00"
+    },
+    "Isle of Man": {
+      "administered": 89727,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 0,
+      "updated": "2021/06/10 00:00:00+00"
+    },
+    "Montserrat": {
+      "administered": 2522,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 0,
+      "updated": "2021/06/10 00:00:00+00"
+    },
+    "Northern Ireland": {
+      "administered": 1826614,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 0,
+      "updated": "2021/06/10 00:00:00+00"
+    },
+    "Saint Helena, Ascension and Tristan da Cunha": {
+      "administered": 7892,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 0,
+      "updated": "2021/06/10 00:00:00+00"
+    },
+    "Scotland": {
+      "administered": 5736126,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 0,
+      "updated": "2021/06/10 00:00:00+00"
+    },
+    "Wales": {
+      "administered": 3482159,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 0,
+      "updated": "2021/06/10 00:00:00+00"
+    }
+  },
+  "Uruguay": {
+    "All": {
+      "administered": 3140408,
+      "people_vaccinated": 1076720,
+      "people_partially_vaccinated": 2014976,
+      "country": "Uruguay",
+      "population": 3456750,
+      "sq_km_area": 175016,
+      "life_expectancy": "75.2",
+      "elevation_in_meters": 109,
+      "continent": "South America",
+      "abbreviation": "UY",
+      "location": "South America",
+      "iso": 858,
+      "capital_city": "Montevideo",
+      "updated": "2021/06/10 00:00:00+00"
+    }
+  },
+  "Uzbekistan": {
+    "All": {
+      "administered": 2136423,
+      "people_vaccinated": 443390,
+      "people_partially_vaccinated": 1199354,
+      "country": "Uzbekistan",
+      "population": 31910641,
+      "sq_km_area": 447400,
+      "life_expectancy": "63.7",
+      "elevation_in_meters": null,
+      "continent": "Asia",
+      "abbreviation": "UZ",
+      "location": "Southern and Central Asia",
+      "iso": 860,
+      "capital_city": "Toskent",
+      "updated": "2021/06/10 00:00:00+00"
+    }
+  },
+  "Venezuela": {
+    "All": {
+      "administered": 3300000,
+      "people_vaccinated": 0,
+      "people_partially_vaccinated": 3127954,
+      "country": "Venezuela",
+      "population": 31977065,
+      "sq_km_area": 912050,
+      "life_expectancy": "73.1",
+      "elevation_in_meters": 450,
+      "continent": "South America",
+      "abbreviation": "VE",
+      "location": "South America",
+      "iso": 862,
+      "capital_city": "Caracas",
+      "updated": "2021/06/10 00:00:00+00"
+    }
+  },
+  "Vietnam": {
+    "All": {
+      "administered": 1354856,
+      "people_vaccinated": 42115,
+      "people_partially_vaccinated": 1312741,
+      "country": "Vietnam",
+      "population": 95540800,
+      "sq_km_area": 331689,
+      "life_expectancy": "69.3",
+      "elevation_in_meters": 398,
+      "continent": "Asia",
+      "abbreviation": "VN",
+      "location": "Southeast Asia",
+      "iso": 704,
+      "capital_city": "Hanoi",
+      "updated": "2021/06/10 00:00:00+00"
+    }
+  },
+  "World": {
+    "All": {
+      "administered": 2214272272,
+      "people_vaccinated": 469428147,
+      "people_partially_vaccinated": 917480390,
+      "updated": "2021/06/10 00:00:00+00"
+    }
+  },
+  "Zambia": {
+    "All": {
+      "administered": 147220,
+      "people_vaccinated": 5286,
+      "people_partially_vaccinated": 141829,
+      "country": "Zambia",
+      "population": 17094130,
+      "sq_km_area": 752618,
+      "life_expectancy": "37.2",
+      "elevation_in_meters": "1,138",
+      "continent": "Africa",
+      "abbreviation": "ZM",
+      "location": "Eastern Africa",
+      "iso": 894,
+      "capital_city": "Lusaka",
+      "updated": "2021/06/10 00:00:00+00"
+    }
+  },
+  "Zimbabwe": {
+    "All": {
+      "administered": 1073971,
+      "people_vaccinated": 385275,
+      "people_partially_vaccinated": 688696,
+      "country": "Zimbabwe",
+      "population": 16529904,
+      "sq_km_area": 390757,
+      "life_expectancy": "37.8",
+      "elevation_in_meters": 961,
+      "continent": "Africa",
+      "abbreviation": "ZW",
+      "location": "Eastern Africa",
+      "iso": 716,
+      "capital_city": "Harare",
+      "updated": "2021/06/10 00:00:00+00"
+    }
+  },
+  "Global": {
+    "All": {
+      "population": 7444509223,
+      "administered": 5227261824,
+      "people_vaccinated": 471380933,
+      "people_partially_vaccinated": 925965940
+    }
+  }
+}
